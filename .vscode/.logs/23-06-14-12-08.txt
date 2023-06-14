@@ -1,0 +1,672 @@
+23-06-14 12:08 Session started
+----------------------------------------
+12:08:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:08:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+12:08:50 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:56:23 165:004 > e
+12:56:23 165:005 > em
+12:56:23 165:006 > ema
+12:56:24 165:007 > emai
+12:56:24 165:008 > email
+12:56:25 165:009 > email1
+12:56:26 165:011 > email1 =
+12:56:27 165:013 > email1 = r
+12:56:27 165:014 > email1 = re
+12:56:27 165:015 > email1 = req
+12:56:28 165:013 > request
+12:56:29 165:020 > .
+12:56:29 165:021 > .P
+12:56:30 165:022 > .PS
+12:56:30 165:023 > .PST
+12:56:32 165:022 > .PSTO
+12:56:33 165:023 > .PSTOT
+12:56:34 165:023 > .PSTOTS
+12:56:35 165:024 > .PSTOTST
+12:56:36 165:025 > []
+12:56:36 165:026 > ''
+12:56:37 165:027 > e
+12:56:38 165:028 > em
+12:56:38 165:029 > ema
+12:56:38 165:030 > emai
+12:56:38 165:031 > email
+12:56:39 165:032 > email1
+
+12:56:51 166:004 > a
+12:56:52 166:005 > ad
+12:56:52 166:006 > add
+12:56:52 166:007 > addr
+12:56:53 166:008 > addre
+12:56:53 166:009 > addres
+12:56:53 166:010 > address
+12:56:54 166:012 > address =
+12:56:56 166:014 > address = r
+12:56:56 166:015 > address = re
+12:56:56 166:016 > address = req
+12:56:56 166:017 > address = requ
+12:56:56 166:018 > address = reque
+12:56:56 166:019 > address = reques
+12:56:57 166:020 > address = request
+12:56:58 166:021 > address = request.
+12:56:59 166:022 > address = request.P
+12:56:59 166:023 > address = request.PO
+12:56:59 166:024 > address = request.POS
+12:57:00 166:025 > address = request.POST
+12:57:01 166:026 > []
+12:57:02 166:027 > ''
+12:57:02 166:028 > a
+12:57:02 166:029 > ad
+12:57:02 166:030 > add
+12:57:03 166:031 > addr
+12:57:03 166:032 > addre
+12:57:03 166:033 > addres
+12:57:03 166:034 > address
+
+12:57:08 167:004 > p
+12:57:09 167:005 > ph
+12:57:09 167:006 > pho
+12:57:10 167:007 > phon
+12:57:10 167:008 > phone
+12:57:11 167:010 > phone =
+12:57:12 167:012 > phone = r
+12:57:12 167:013 > phone = re
+12:57:13 167:014 > phone = req
+12:57:13 167:015 > phone = requ
+12:57:13 167:016 > phone = reque
+12:57:13 167:017 > phone = reques
+12:57:13 167:018 > phone = request
+12:57:14 167:019 > phone = request.
+12:57:15 167:020 > phone = request.P
+12:57:15 167:021 > phone = request.PO
+12:57:15 167:022 > phone = request.POS
+12:57:16 167:023 > phone = request.POST
+12:57:17 167:024 > []
+12:57:17 167:025 > ''
+12:57:18 167:026 > p
+12:57:19 167:027 > ph
+12:57:19 167:028 > pho
+12:57:19 167:029 > phon
+12:57:19 167:030 > phone
+
+12:57:29 168:004 > m
+12:57:29 168:005 > me
+12:57:29 168:006 > mes
+12:57:29 168:007 > mess
+12:57:30 168:008 > messa
+12:57:30 168:009 > messag
+12:57:30 168:010 > message
+12:57:31 168:012 > message =
+12:57:32 168:014 > message = r
+12:57:32 168:015 > message = re
+12:57:33 168:016 > message = req
+12:57:33 168:017 > message = requ
+12:57:33 168:018 > message = reque
+12:57:33 168:019 > message = reques
+12:57:33 168:020 > message = request
+12:57:35 168:021 > message = request.
+12:57:36 168:022 > message = request.P
+12:57:36 168:023 > message = request.PO
+12:57:36 168:024 > message = request.POS
+12:57:36 168:025 > message = request.POST
+12:57:38 168:026 > []
+12:57:38 168:027 > ''
+12:57:39 168:028 > m
+12:57:40 168:029 > me
+12:57:40 168:030 > mes
+12:57:40 168:031 > mess
+12:57:40 168:032 > messa
+12:57:41 168:033 > messag
+12:57:41 168:034 > message
+
+12:57:58 170:004 > m
+12:57:58 170:005 > mi
+12:57:58 170:006 > mid
+12:57:59 170:008 > mid =
+12:58:06 170:011 > mid =  a
+12:58:06 170:012 > mid =  aa
+12:58:06 170:013 > mid =  aaa
+12:58:06 170:014 > mid =  aaaa
+12:58:06 170:015 > mid =  aaaaa
+12:58:06 170:016 > mid =  aaaaaa
+12:58:06 170:017 > mid =  aaaaaaa
+12:58:06 170:018 > mid =  aaaaaaaa
+12:58:06 170:019 > mid =  aaaaaaaaa
+12:58:06 170:020 > mid =  aaaaaaaaaa
+12:58:06 170:021 > mid =  aaaaaaaaaaa
+12:58:06 170:022 > mid =  aaaaaaaaaaaa
+12:58:06 170:023 > mid =  aaaaaaaaaaaaa
+12:58:06 170:024 > mid =  aaaaaaaaaaaaaa
+12:58:06 170:025 > mid =  aaaaaaaaaaaaaaa
+12:58:06 170:026 > mid =  aaaaaaaaaaaaaaaa
+12:58:07 170:027 > mid =  aaaaaaaaaaaaaaaaa
+12:58:07 170:028 > mid =  aaaaaaaaaaaaaaaaaa
+12:58:07 170:029 > mid =  aaaaaaaaaaaaaaaaaaa
+12:58:07 170:030 > mid =  aaaaaaaaaaaaaaaaaaaa
+12:58:07 170:031 > mid =  aaaaaaaaaaaaaaaaaaaaa
+12:58:07 170:032 > mid =  aaaaaaaaaaaaaaaaaaaaaa
+12:58:07 170:033 > mid =  aaaaaaaaaaaaaaaaaaaaaaa
+12:58:10 170:011 > mid =  aaaaaaaaaaaaaaaaaaaaaaaA
+12:58:12 170:011 > Address
+12:58:13 170:018 > .
+12:58:14 170:019 > .o
+12:58:14 170:020 > .ob
+12:58:15 170:021 > .obj
+12:58:15 170:022 > .obje
+12:58:15 170:019 > objects
+12:58:16 170:026 > .
+12:58:17 170:027 > .c
+12:58:17 170:028 > .cr
+12:58:17 170:029 > .cre
+12:58:17 170:030 > .crea
+12:58:18 170:031 > .creat
+12:58:18 170:032 > .create
+12:58:20 170:033 > ()
+12:58:29 170:034 >                             n
+12:58:29 170:035 >                             na
+12:58:29 170:036 >                             nam
+12:58:30 170:037 >                             name
+12:58:30 170:038 >                             name1
+12:58:32 170:040 >                             name1 =
+12:58:33 170:042 >                             name1 = n
+12:58:33 170:043 >                             name1 = na
+12:58:33 170:044 >                             name1 = nam
+12:58:33 170:045 >                             name1 = name
+12:58:34 170:046 >                             name1 = name1
+12:58:34 170:047 >                             name1 = name1,
+
+12:58:36 171:034 > e
+12:58:37 171:035 > em
+12:58:37 171:036 > ema
+12:58:37 171:037 > emai
+12:58:37 171:038 > email
+12:58:38 171:039 > email1
+12:58:39 171:041 > email1 =
+12:58:39 171:043 > email1 = e
+12:58:40 171:044 > email1 = em
+12:58:40 171:045 > email1 = ema
+12:58:40 171:046 > email1 = emai
+12:58:40 171:047 > email1 = email
+12:58:41 171:048 > email1 = email1
+12:58:42 171:049 > email1 = email1,
+
+12:58:44 172:034 > a
+12:58:44 172:035 > ad
+12:58:45 172:036 > add
+12:58:45 172:037 > addr
+12:58:45 172:038 > addre
+12:58:45 172:039 > addres
+12:58:45 172:040 > address
+12:58:46 172:042 > address =
+12:58:47 172:044 > address = a
+12:58:47 172:045 > address = ad
+12:58:47 172:046 > address = add
+12:58:47 172:047 > address = addr
+12:58:47 172:048 > address = addre
+12:58:48 172:049 > address = addres
+12:58:48 172:050 > address = address
+12:58:48 172:051 > address = address,
+
+12:58:50 173:034 > p
+12:58:50 173:035 > ph
+12:58:51 173:036 > pho
+12:58:51 173:037 > phon
+12:58:51 173:038 > phone
+12:58:52 173:039 > phone,
+12:58:54 173:040 > phone, -
+12:58:57 173:040 > phone, -=
+12:58:57 173:042 > phone, -= p
+12:58:58 173:043 > phone, -= ph
+12:58:58 173:044 > phone, -= phn
+12:58:59 173:045 > phone, -= phne
+12:59:01 173:042 > phone
+12:59:02 173:047 > ,
+
+12:59:04 174:034 > m
+12:59:05 174:035 > me
+12:59:05 174:036 > mes
+12:59:05 174:037 > mess
+12:59:05 174:038 > messa
+12:59:05 174:039 > messag
+12:59:06 174:040 > message
+12:59:07 174:042 > message =
+12:59:08 174:044 > message = m
+12:59:08 174:045 > message = me
+12:59:08 174:046 > message = mes
+12:59:08 174:047 > message = mess
+12:59:09 174:048 > message = messa
+12:59:09 174:049 > message = messag
+12:59:09 174:050 > message = message
+
+12:59:20 207:027 > ,
+12:59:22 208:006 > ''
+
+12:59:23 208:007 > m
+12:59:23 208:008 > mi
+12:59:23 208:009 > mid
+12:59:27 208:012 > mid :
+12:59:28 208:014 > mid : m
+12:59:28 208:015 > mid : mi
+12:59:28 208:016 > mid : mid
+
+12:59:39 215:000 > e
+12:59:40 215:001 > el
+12:59:40 215:002 > els
+12:59:40 215:003 > else
+12:59:41 215:004 > else:
+
+12:59:42 216:002 > r
+12:59:42 216:003 > re
+12:59:42 216:004 > ret
+12:59:43 216:005 > retr
+12:59:44 216:006 > retru
+12:59:46 216:004 > retruu
+12:59:46 216:005 > retruur
+12:59:46 216:006 > retruurn
+13:00:13 216:002 > retruurn         r
+13:00:13 216:003 > retruurn         re
+13:00:14 216:004 > retruurn         rer
+13:00:14 216:005 > retruurn         reru
+13:00:16 216:005 > retruurn         rerut
+13:00:16 216:006 > retruurn         rerutu
+13:00:16 216:007 > retruurn         rerutur
+13:00:19 216:004 > retruurn         reruturu
+13:00:19 216:005 > retruurn         reruturut
+13:00:21 216:004 > retruurn         reruturutt
+13:00:21 216:005 > retruurn         reruturuttu
+13:00:21 216:006 > retruurn         reruturuttur
+13:00:21 216:007 > retruurn         reruturutturn
+13:00:23 216:009 > retruurn         reruturutturn r
+13:00:23 216:010 > retruurn         reruturutturn re
+13:00:24 216:011 > retruurn         reruturutturn ren
+13:00:24 216:012 > retruurn         reruturutturn rend
+13:00:24 216:013 > retruurn         reruturutturn rende
+13:00:24 216:014 > retruurn         reruturutturn render
+13:00:27 216:004 > ut
+13:00:28 216:004 > rtur
+13:00:29 216:005 > u
+13:00:30 216:002 > reurn
+
+13:00:45 213:002 > e
+13:00:45 213:003 > el
+13:00:45 213:004 > els
+13:00:46 213:005 > else
+13:00:47 213:006 > else:
+13:01:13 213:002 > else:    r
+13:01:13 213:003 > else:    re
+13:01:14 213:004 > else:    ret
+13:01:14 213:005 > else:    reti
+13:01:14 213:006 > else:    retir
+13:01:16 213:005 > else:    retiru
+13:01:16 213:006 > else:    retirur
+13:01:16 213:007 > else:    retirurn
+13:01:17 213:009 > else:    retirurn r
+13:01:17 213:010 > else:    retirurn re
+13:01:17 213:011 > else:    retirurn ren
+13:01:17 213:012 > else:    retirurn rend
+13:01:18 213:013 > else:    retirurn rende
+13:01:18 213:014 > else:    retirurn render
+13:01:21 213:015 > ()
+13:01:23 213:016 > r
+13:01:23 213:017 > re
+13:01:23 213:018 > req
+13:01:24 213:016 > request
+13:01:24 213:023 > .
+13:01:25 213:023 > .,
+13:01:26 213:024 > ""
+13:01:27 213:025 > e
+13:01:27 213:026 > ec
+13:01:27 213:027 > eco
+13:01:27 213:028 > ecom
+13:01:28 213:029 > ecomp
+13:01:28 213:030 > ecompp
+13:01:29 213:029 > ecomppa
+13:01:30 213:030 > ecomppap
+13:01:30 213:031 > ecomppapp
+13:01:30 213:032 > ecomppapp.
+13:01:32 213:032 > ecomppapp./
+13:01:33 213:033 > ecomppapp./c
+13:01:33 213:034 > ecomppapp./ch
+13:01:33 213:035 > ecomppapp./che
+13:01:33 213:036 > ecomppapp./chec
+13:01:34 213:037 > ecomppapp./checo
+13:01:34 213:038 > ecomppapp./checou
+13:01:34 213:039 > ecomppapp./checout
+13:01:36 213:037 > ecomppapp./checoutk
+13:01:36 213:038 > ecomppapp./checoutko
+13:01:37 213:039 > ecomppapp./checoutkou
+13:01:37 213:040 > ecomppapp./checoutkout
+13:01:37 213:041 > ecomppapp./checoutkout.
+13:01:38 213:042 > ecomppapp./checoutkout.h
+13:01:38 213:043 > ecomppapp./checoutkout.ht
+13:01:38 213:044 > ecomppapp./checoutkout.htm
+13:01:38 213:045 > ecomppapp./checoutkout.html
+13:01:42 213:047 > ecomppapp./checoutkout.html,
+13:01:42 213:048 > ecomppapp./checoutkout.html,c
+13:01:43 213:049 > ecomppapp./checoutkout.html,co
+13:01:43 213:050 > ecomppapp./checoutkout.html,con
+13:01:43 213:051 > ecomppapp./checoutkout.html,cont
+13:01:43 213:052 > ecomppapp./checoutkout.html,conte
+13:01:44 213:053 > ecomppapp./checoutkout.html,contex
+13:01:44 213:054 > ecomppapp./checoutkout.html,context
+
+13:03:13 177:004 > e
+13:03:13 177:005 > el
+13:03:13 177:006 > els
+13:03:13 177:007 > else
+
+13:03:14 176:005 > :
+13:03:15 176:005 > else
+
+13:03:22 177:008 > :
+
+13:03:27 178:004 > r
+13:03:27 178:005 > re
+13:03:28 178:006 > ret
+13:03:28 178:007 > retu
+13:03:28 178:008 > retur
+13:03:29 178:009 > return
+13:03:31 178:011 > return r
+13:03:31 178:012 > return re
+13:03:32 178:013 > return ren
+13:03:32 178:014 > return rend
+13:03:32 178:015 > return rende
+13:03:32 178:016 > return render
+13:03:34 178:017 > ()
+13:03:34 178:018 > r
+13:03:34 178:019 > re
+13:03:34 178:020 > req
+13:03:35 178:018 > request
+13:03:36 178:025 > ,
+13:03:36 178:026 > ""
+13:03:37 178:027 > e
+13:03:37 178:028 > ec
+13:03:37 178:029 > eco
+13:03:38 178:030 > ecom
+13:03:38 178:031 > ecoma
+13:03:38 178:032 > ecomap
+13:03:38 178:033 > ecomapp
+13:03:39 178:034 > ecomapp/
+13:03:39 178:035 > ecomapp/c
+13:03:39 178:036 > ecomapp/ch
+13:03:40 178:037 > ecomapp/che
+13:03:40 178:038 > ecomapp/chec
+13:03:40 178:039 > ecomapp/check
+13:03:40 178:040 > ecomapp/checko
+13:03:40 178:041 > ecomapp/checkou
+13:03:41 178:042 > ecomapp/checkout
+13:03:42 178:043 > ecomapp/checkout/
+13:03:43 178:043 > ecomapp/checkout/.
+13:03:44 178:044 > ecomapp/checkout/.h
+13:03:44 178:045 > ecomapp/checkout/.ht
+13:03:44 178:046 > ecomapp/checkout/.htm
+13:03:44 178:047 > ecomapp/checkout/.html
+
+13:05:45 215:000 > e
+13:05:46 215:001 > el
+13:05:46 215:002 > els
+13:05:46 215:003 > else
+13:05:48 215:004 > else:
+
+13:05:54 216:002 > r
+13:05:54 216:003 > re
+13:05:57 216:002 > return
+13:06:01 216:009 >  r
+13:06:01 216:010 >  re
+13:06:02 216:011 >  ren
+13:06:02 216:012 >  rend
+13:06:02 216:013 >  rende
+13:06:02 216:014 >  render
+13:06:04 216:015 > ()
+13:06:26 216:015 > ()
+13:06:27 216:016 > r
+13:06:27 216:017 > re
+13:06:27 216:018 > req
+13:06:32 216:002 > re
+13:07:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+13:07:36 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+
+13:07:40 037:060 > ,
+
+13:07:41 038:001 > p
+13:07:41 038:002 > pa
+13:07:41 038:003 > pat
+13:07:41 038:004 > path
+13:07:43 038:005 > ()
+13:07:45 038:006 > ''
+13:07:47 038:007 > a
+13:07:47 038:008 > ad
+13:07:47 038:009 > add
+13:07:47 038:010 > addr
+13:07:47 038:011 > addre
+13:07:48 038:012 > addree
+13:07:48 038:012 > addrees
+13:07:48 038:013 > addreess
+13:07:51 038:014 > addreess/
+13:07:54 038:017 > addreess/,
+13:07:57 038:016 > addreess/,,
+13:07:58 038:017 > addreess/,,v
+13:07:59 038:018 > addreess/,,vi
+13:07:59 038:019 > addreess/,,vie
+13:07:59 038:020 > addreess/,,view
+13:07:59 038:021 > addreess/,,views
+13:08:00 038:022 > addreess/,,views.
+13:08:00 038:023 > addreess/,,views.a
+13:08:00 038:024 > addreess/,,views.ad
+13:08:01 038:025 > addreess/,,views.add
+13:08:01 038:026 > addreess/,,views.addr
+13:08:01 038:027 > addreess/,,views.addre
+13:08:01 038:028 > addreess/,,views.addres
+13:08:01 038:029 > addreess/,,views.address
+13:08:04 038:030 > addreess/,,views.address,
+13:08:06 038:031 > addreess/,,views.address,n
+13:08:06 038:032 > addreess/,,views.address,na
+13:08:06 038:033 > addreess/,,views.address,nam
+13:08:06 038:034 > addreess/,,views.address,name
+13:08:07 038:031 > name=
+13:08:08 038:036 > ''
+13:08:08 038:037 > a
+13:08:09 038:038 > ad
+13:08:09 038:039 > add
+13:08:09 038:040 > addr
+13:08:09 038:041 > addre
+13:08:10 038:042 > addres
+13:08:10 038:043 > address
+13:08:12 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+13:08:17 298:002 > d
+13:08:17 298:003 > de
+13:08:18 298:004 > def
+13:08:20 298:006 > def a
+13:08:21 298:007 > def ad
+13:08:21 298:008 > def add
+13:08:21 298:009 > def addr
+13:08:21 298:010 > def addre
+13:08:21 298:011 > def addree
+13:08:22 298:012 > def addrees
+13:08:22 298:011 > def addreess
+13:08:23 298:012 > def addreesss
+13:08:24 298:013 > def addreesss)
+13:08:25 298:013 > ()
+13:08:26 298:014 > r
+13:08:26 298:015 > re
+13:08:26 298:016 > req
+13:08:27 298:017 > requ
+13:08:27 298:018 > reque
+13:08:27 298:019 > reques
+13:08:27 298:020 > request
+13:08:29 298:022 > request:
+
+13:08:31 299:004 > r
+13:08:31 299:005 > re
+13:08:32 299:006 > ret
+13:08:32 299:007 > retu
+13:08:32 299:008 > retur
+13:08:32 299:009 > return
+13:08:33 299:011 > return r
+13:08:33 299:012 > return re
+13:08:33 299:013 > return ren
+13:08:33 299:014 > return rend
+13:08:34 299:015 > return rende
+13:08:34 299:016 > return render
+13:08:36 299:017 > ()
+13:08:38 299:018 > r
+13:08:38 299:019 > re
+13:08:38 299:020 > req
+13:08:38 299:021 > requ
+13:08:38 299:022 > reque
+13:08:39 299:023 > reques
+13:08:39 299:024 > request
+13:08:40 299:025 > request,
+13:08:41 299:026 > ""
+13:08:42 299:027 > e
+13:08:42 299:028 > ec
+13:08:42 299:029 > eco
+13:08:42 299:030 > ecom
+13:08:43 299:031 > ecoma
+13:08:43 299:032 > ecomap
+13:08:43 299:033 > ecomapp
+13:08:44 299:034 > ecomapp/
+13:08:45 299:035 > ecomapp/a
+13:08:45 299:036 > ecomapp/ad
+13:08:45 299:037 > ecomapp/add
+13:08:45 299:038 > ecomapp/addr
+13:08:45 299:039 > ecomapp/addre
+13:08:45 299:040 > ecomapp/addres
+13:08:46 299:041 > ecomapp/address
+13:08:46 299:042 > ecomapp/address.
+13:08:47 299:043 > ecomapp/address.h
+13:08:47 299:044 > ecomapp/address.ht
+13:08:47 299:045 > ecomapp/address.htm
+13:08:47 299:046 > ecomapp/address.html
+13:08:59 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+13:09:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:09:23 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\address.html
+----------------------------------------
+13:09:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\address.html
+----------------------------------------
+13:09:30 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:09:34 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\address.html
+----------------------------------------
+13:09:35 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:09:38 299:004 > if request.POST:
+    name1 = request.POST['name1']
+    email1 = request.POST['email1']
+    address = request.POST['address']
+    phone = request.POST['phone']
+    message = request.POST['message']
+    
+    mid =  Address.objects.create(name1 = name1,
+                                  email1 = email1,
+                                  address = address,
+                                  phone = phone,
+                                  message = message
+                                  
+    )
+13:09:54 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+13:10:00 264:000 > </div>
+13:10:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\address.html
+----------------------------------------
+13:10:21 000:000 > <div class="checkout-section mt-150 mb-150">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8">
+						<div class="checkout-accordion-wrap">
+							<div class="accordion" id="accordionExample">
+							  <div class="card single-accordion">
+								 <div class="card-header" id="headingOne">
+									<h5 class="mb-0">
+									  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										 Address
+									  </button>
+									</h5>
+								 </div>
+	
+								 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+									<div class="card-body">
+									  <div class="billing-address-form">
+										  <form action="{% url 'checkout' %}" method="post">
+											  <p><input type="text" placeholder="Name" name="name1"></p>
+											  <p><input type="email" placeholder="Email" name="email1"></p>
+											  <p><input type="text" placeholder="Address" name="address"></p>
+											  <p><input type="tel" placeholder="Phone" name="phone"></p>
+											  <p><textarea name="message" id="bill" cols="30" rows="10" placeholder="Say Something" ></textarea></p>
+										  </form>
+									  </div>
+									</div>
+								 </div>
+							  </div>
+13:10:41 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:10:46 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+13:10:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:10:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+13:11:08 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+13:12:05 314:002 > s
+13:12:05 314:003 > se
+13:12:05 314:004 > sel
+13:12:05 314:005 > sels
+13:12:06 314:006 > selse
+13:12:13 314:002 > selse
+
+13:12:18 298:013 > )
+13:12:18 298:011 > es
+13:12:24 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+13:12:38 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+13:12:43 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+13:14:01 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:14:16 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+13:14:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+13:14:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+13:14:54 247:029 > s
+13:14:54 247:030 > st
+13:14:54 247:031 > str
+13:14:55 247:029 > <strong></strong>
+13:15:05 247:006 > <strong>
+13:15:05 247:014 > </strong>
+13:15:14 247:007 > s
+13:15:15 247:008 > st
+13:15:15 247:009 > str
+13:15:15 247:010 > stro
+13:15:15 247:011 > stron
+13:15:15 247:012 > strong
+13:15:33 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+13:15:42 201:033 > i
+13:15:42 201:034 > in
+13:15:42 201:035 > ind
+13:15:42 201:036 > inde
+13:15:43 201:037 > index
+13:15:58 201:033 > indexc
+13:15:58 201:034 > indexch
+13:15:58 201:035 > indexche
+13:15:58 201:036 > indexchec
+13:15:58 201:037 > indexchecl
+13:16:00 201:037 > indexcheclk
+13:16:00 201:038 > indexcheclko
+13:16:00 201:039 > indexcheclkou
+13:16:00 201:040 > indexcheclkout

@@ -1,0 +1,6 @@
+23-06-12 18:45 Session started
+----------------------------------------
+18:45:20 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+18:45:25 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------

@@ -1,0 +1,1561 @@
+23-06-12 11:17 Session started
+----------------------------------------
+11:17:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+11:17:27 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:19:14 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:19:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\forget_password.html
+----------------------------------------
+11:19:20 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+11:20:08 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:20:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:20:55 186:008 > <a href="#" class="boxed-btn">Place Order</a>
+11:21:14 189:008 > <a href="#" class="boxed-btn">Place Order</a>
+11:21:31 204:006 > <a href="#" class="boxed-btn">Place Order</a>
+
+11:21:46 204:006 > b
+11:21:46 204:007 > br
+
+11:21:50 205:006 > b
+11:21:50 205:007 > br
+11:21:54 205:006 > br<
+11:21:55 205:007 > br<b
+11:21:55 205:008 > br<br
+11:21:56 205:009 > br<br>
+11:22:02 205:055 > br<br><
+11:22:02 205:056 > br<br><?
+11:22:12 205:010 > br<br><?b
+11:22:12 205:011 > br<br><?br
+11:22:13 205:010 > <br>
+11:22:29 205:045 > r
+11:22:29 205:046 > ro
+11:22:29 205:047 > roc
+11:22:29 205:048 > roce
+11:22:29 205:049 > rocee
+11:22:30 205:050 > roceed
+11:22:30 205:052 > roceed t
+11:22:31 205:053 > roceed to
+11:22:31 205:055 > roceed to c
+11:22:31 205:056 > roceed to ch
+11:22:31 205:057 > roceed to che
+11:22:32 205:058 > roceed to chec
+11:22:32 205:059 > roceed to check
+11:22:32 205:060 > roceed to checko
+11:22:33 205:061 > roceed to checkou
+11:22:33 205:062 > roceed to checkout
+11:22:37 205:023 > {}
+11:22:38 205:024 > %
+11:22:38 205:025 > %%
+11:22:39 205:026 > %% u
+11:22:39 205:027 > %% ur
+11:22:39 205:028 > %% url
+11:22:40 205:030 > %% url '
+11:22:41 205:031 > %% url 'c
+11:22:41 205:032 > %% url 'ch
+11:22:41 205:033 > %% url 'che
+11:22:41 205:034 > %% url 'chec
+11:22:41 205:035 > %% url 'check
+11:22:42 205:036 > %% url 'checko
+11:22:43 205:037 > %% url 'checkou
+11:22:43 205:038 > %% url 'checkout
+11:22:44 205:040 > %% url 'checkout '
+11:22:59 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+11:23:08 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:23:09 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:23:28 205:087 > %% url 'checkout ' <
+11:23:30 205:088 > %% url 'checkout ' </
+11:23:30 205:089 > div>
+11:23:30 205:093 > b
+11:23:30 205:094 > br
+11:23:35 205:093 > brb
+11:23:35 205:094 > brbr
+11:23:36 205:093 > <br>
+11:23:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+11:24:02 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:24:05 205:031 > checkout
+11:25:22 203:007 > <a href="{% url 'checkout ' %}" class="boxed-btn">Proceed to checkout</a>
+11:25:38 205:014 > <a href="{% url 'checkout ' %}" class="boxed-btn">Proceed to checkout</a>
+11:25:42 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+11:25:50 025:024 > checkout
+11:25:52 025:040 > checkout
+11:25:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:26:52 161:004 > checkout
+11:26:55 162:033 > checkout
+11:27:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:27:56 205:014 > a
+11:27:58 205:014 > a a
+11:27:58 205:014 > <a href=""></a>
+11:28:02 205:017 >  c
+11:28:02 205:018 >  cl
+11:28:02 205:019 >  cla
+11:28:02 205:020 >  clas
+11:28:02 205:021 >  class
+11:28:03 205:017 > class=""
+11:28:05 205:024 > m
+11:28:05 205:025 > ma
+11:28:05 205:026 > mai
+11:28:06 205:027 > main
+11:28:07 205:027 > main_
+11:28:09 205:027 > main_n
+11:28:10 205:028 > main_n_
+11:28:11 205:029 > main_n_b
+11:28:11 205:030 > main_n_bt
+11:28:12 205:031 > main_n_btn
+11:28:18 205:040 > {}
+11:28:19 205:041 > %
+11:28:19 205:042 > %%
+11:28:21 205:043 > %% u
+11:28:21 205:044 > %% ur
+11:28:21 205:045 > %% urk
+11:28:22 205:045 > %% urkl
+11:28:23 205:047 > %% urkl '
+11:28:25 205:048 > %% urkl 'c
+11:28:25 205:049 > %% urkl 'ch
+11:28:25 205:050 > %% urkl 'che
+11:28:26 205:051 > %% urkl 'chec
+11:28:26 205:052 > %% urkl 'check
+11:28:26 205:053 > %% urkl 'checku
+11:28:28 205:053 > %% urkl 'checkuo
+11:28:28 205:054 > %% urkl 'checkuou
+11:28:28 205:055 > %% urkl 'checkuout
+11:28:32 205:056 > %% urkl 'checkuout'
+11:28:36 205:062 > %% urkl 'checkuout' P
+11:28:36 205:063 > %% urkl 'checkuout' Pr
+11:28:36 205:064 > %% urkl 'checkuout' Pro
+11:28:37 205:065 > %% urkl 'checkuout' Proc
+11:28:38 205:066 > %% urkl 'checkuout' Proce
+11:28:38 205:067 > %% urkl 'checkuout' Procee
+11:28:38 205:068 > %% urkl 'checkuout' Proceed
+11:28:39 205:069 > %% urkl 'checkuout' Proceedt
+11:28:39 205:070 > %% urkl 'checkuout' Proceedto
+11:28:41 205:070 > %% urkl 'checkuout' Proceedto  t
+11:28:41 205:071 > %% urkl 'checkuout' Proceedto  to
+11:28:41 205:073 > %% urkl 'checkuout' Proceedto  to c
+11:28:42 205:074 > %% urkl 'checkuout' Proceedto  to ch
+11:28:42 205:075 > %% urkl 'checkuout' Proceedto  to che
+11:28:42 205:076 > %% urkl 'checkuout' Proceedto  to chec
+11:28:42 205:077 > %% urkl 'checkuout' Proceedto  to check
+11:28:42 205:078 > %% urkl 'checkuout' Proceedto  to checko
+11:28:42 205:079 > %% urkl 'checkuout' Proceedto  to checkou
+11:28:43 205:080 > %% urkl 'checkuout' Proceedto  to checkout
+11:29:12 205:024 > %% urkl 'checkuout' Proceedto  to checkoutb
+11:29:12 205:025 > %% urkl 'checkuout' Proceedto  to checkoutbt
+11:29:13 205:026 > %% urkl 'checkuout' Proceedto  to checkoutbtn
+11:29:14 205:028 > %% urkl 'checkuout' Proceedto  to checkoutbtn b
+11:29:14 205:029 > %% urkl 'checkuout' Proceedto  to checkoutbtn bt
+11:29:15 205:030 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn
+11:29:15 205:031 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-
+11:29:17 205:032 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-p
+11:29:17 205:033 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-pr
+11:29:19 205:034 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prm
+11:29:19 205:035 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prma
+11:29:19 205:036 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmar
+11:29:20 205:037 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmary
+11:29:23 205:034 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryi
+11:29:23 205:035 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryim
+11:29:23 205:036 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryima
+11:29:24 205:037 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryimar
+11:29:24 205:038 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryimarr
+11:29:24 205:039 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryimarry
+11:29:25 205:038 > %% urkl 'checkuout' Proceedto  to checkoutbtn btn-prmaryimarryy
+11:31:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:32:45 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:34:54 150:023 > 8
+
+11:35:14 149:008 > a
+11:35:14 149:009 > al
+11:35:14 149:010 > ali
+11:35:15 149:011 > alii
+11:35:16 149:012 > aliig
+11:35:16 149:011 > aliigg
+11:35:17 149:012 > aliiggn
+11:35:21 149:008 > aliiggn d
+11:35:23 149:009 > aliiggn di
+11:36:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:36:42 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:39:05 151:028 > 1
+
+11:39:11 152:006 > t
+11:39:11 152:007 > ta
+11:39:11 152:008 > tab
+11:39:12 152:006 > <table></table>
+11:39:19 152:013 >  b
+11:39:20 152:014 >  bo
+11:39:20 152:015 >  bod
+11:39:20 152:016 >  body
+11:39:24 152:017 >  body1
+11:39:29 152:019 >  body1 \
+11:39:31 152:015 >  body1 \r
+11:39:31 152:016 >  body1 \rd
+11:39:32 152:017 >  body1 \rde
+11:39:32 152:018 >  body1 \rder
+11:39:33 152:013 > border=""
+11:39:34 152:021 > 1
+
+11:39:43 153:007 > t
+11:39:43 153:008 > tr
+11:39:44 153:007 > <tr></tr>
+
+11:39:46 154:008 > t
+11:39:47 154:009 > th
+11:39:47 154:008 > <th></th>
+11:39:58 154:011 > >
+11:40:11 154:012 > >P
+11:40:12 154:013 > >Pr
+11:40:13 154:014 > >Pro
+11:40:13 154:015 > >Prod
+11:40:13 154:016 > >Produ
+11:40:13 154:017 > >Produc
+11:40:13 154:018 > >Product
+11:40:14 154:020 > >Product n
+11:40:14 154:021 > >Product na
+11:40:15 154:022 > >Product nam
+11:40:15 154:023 > >Product name
+
+11:40:19 155:008 > t
+11:40:19 155:009 > th
+11:40:19 155:008 > <th></th>
+11:40:22 155:012 > p
+11:40:22 155:013 > pr
+11:40:22 155:014 > pri
+11:40:22 155:015 > pric
+11:40:23 155:016 > price
+
+11:40:25 156:008 > t
+11:40:25 156:009 > th
+11:40:26 156:008 > <th></th>
+11:40:29 156:012 > q
+11:40:29 156:013 > qu
+11:40:29 156:014 > qua
+11:40:29 156:015 > quan
+11:40:30 156:016 > quant
+11:40:30 156:017 > quanti
+11:40:30 156:018 > quantit
+11:40:30 156:019 > quantity
+
+11:40:33 157:008 > t
+11:40:33 157:009 > th
+11:40:39 157:008 > th t
+11:40:39 157:009 > th th
+11:40:40 157:008 > <th></th>
+11:40:40 157:012 > t
+11:40:41 157:013 > to
+11:40:42 157:013 > too
+11:40:42 157:014 > toot
+11:40:42 157:015 > toota
+11:40:43 157:016 > tootal
+
+11:40:57 159:007 > t
+11:40:57 159:008 > td
+11:41:00 159:007 > <table></table>
+11:41:07 159:007 > t
+11:41:09 159:008 > tb
+11:41:09 159:009 > tbo
+11:41:10 159:007 > <tbody></tbody>
+11:41:13 160:008 > {}
+
+11:41:14 160:009 > %
+11:41:15 160:010 > %%
+11:41:16 160:011 > %% f
+11:41:16 160:012 > %% fo
+11:41:16 160:013 > %% for
+11:41:19 160:015 > %% for x
+11:41:21 160:017 > %% for x i
+11:41:21 160:018 > %% for x in
+11:41:25 160:015 > %% for x in i
+11:41:27 160:017 > %% for x in i i
+11:41:27 160:018 > %% for x in i in
+11:41:55 160:020 > %% for x in i in c
+11:41:56 160:021 > %% for x in i in cd
+11:41:56 160:022 > %% for x in i in cdi
+11:41:57 160:021 > %% for x in i in cdi i
+11:41:57 160:022 > %% for x in i in cdi id
+
+11:42:10 161:008 > t
+11:42:10 161:009 > tr
+11:42:11 161:008 > <tr></tr>
+11:42:21 161:012 >  t
+11:42:21 161:013 >  ts
+11:42:27 161:014 >  ts t
+11:42:27 161:015 >  ts ts
+11:42:29 161:015 >  ts tsd
+11:42:30 161:014 > <td></td>
+11:42:46 161:016 >  a
+11:42:48 161:016 > <a href=""></a>
+11:42:52 161:025 > #
+11:43:02 161:028 > #i
+11:43:02 161:029 > #im
+11:43:02 161:030 > #img
+11:43:03 161:028 > <img src="" alt="">
+11:43:18 161:029 > i
+11:43:18 161:030 > im
+11:43:20 161:029 > img
+11:43:21 161:029 > im
+11:43:22 161:029 > img
+11:43:22 161:033 > src
+11:43:23 161:028 > img
+11:43:26 161:028 > i
+11:43:26 161:029 > im
+11:43:26 161:030 > img
+11:43:27 161:032 > img w
+11:43:28 161:033 > img wi
+11:43:29 161:032 > width
+11:43:33 161:028 > i
+11:43:33 161:029 > im
+11:43:33 161:030 > img
+11:43:36 161:028 > <img src="" alt="" sizes="" srcset="">
+11:43:38 161:028 > img
+11:43:41 161:028 > i
+11:43:41 161:029 > im
+11:43:41 161:030 > img
+11:43:42 161:028 > <img src="" alt="">
+11:43:47 161:033 > w
+11:43:48 161:034 > wi
+11:43:48 161:035 > wid
+11:43:48 161:036 > widt
+11:43:48 161:037 > width
+11:43:50 161:033 > width
+11:43:52 161:040 > 6
+11:43:53 161:041 > 64
+11:44:03 161:044 > 64h
+11:44:03 161:045 > 64he
+11:44:03 161:046 > 64hei
+11:44:04 161:047 > 64heig
+11:44:04 161:048 > 64heigh
+11:44:04 161:049 > 64height
+11:44:05 161:044 > height
+11:44:09 161:052 > 6
+11:44:10 161:053 > 64
+11:44:10 161:054 > 646
+11:44:47 161:056 > 646  s
+11:44:47 161:057 > 646  sr
+11:44:47 161:058 > 646  src
+11:44:48 161:056 > src=""
+11:44:54 161:061 > {}
+
+11:45:16 162:008 > t
+11:45:17 162:009 > td
+11:45:18 162:008 > td t
+11:45:18 162:009 > td td
+11:45:19 162:008 > <td></td>
+11:45:28 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:45:35 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:45:51 161:062 > i
+11:45:51 161:063 > i.
+11:45:52 161:064 > i.p
+11:45:52 161:065 > i.pi
+11:45:52 161:066 > i.pic
+11:45:53 161:067 > i.pic.
+11:45:54 161:068 > i.pic.u
+11:45:54 161:069 > i.pic.ur
+11:45:55 161:070 > i.pic.url
+
+11:45:58 162:012 > a
+11:45:59 162:012 > <a href=""></a>
+11:46:01 162:021 > #
+11:46:05 162:024 > #i
+11:46:05 162:025 > #im
+11:46:06 162:024 > <img src="" alt="">
+11:46:09 162:029 > w
+11:46:09 162:030 > wi
+11:46:09 162:031 > wid
+11:46:09 162:032 > widt
+11:46:10 162:033 > width
+11:46:10 162:029 > width
+11:46:13 162:036 > 6
+11:46:13 162:037 > 64
+11:46:17 162:040 > 64 h
+11:46:17 162:041 > 64 he
+11:46:17 162:042 > 64 hei
+11:46:18 162:040 > height=""
+11:46:19 162:048 > 6
+11:46:19 162:049 > 64
+11:46:22 162:040 > hei
+11:46:23 162:029 > width
+11:46:33 162:025 > n
+11:46:33 162:026 > na
+11:46:33 162:027 > nam
+11:46:33 162:028 > name
+11:46:42 162:024 > name{
+11:46:43 162:025 > name{{
+11:46:43 162:026 > name{{}
+11:46:44 162:027 > name{{}}
+11:46:46 162:026 > name{{}}i
+11:46:46 162:027 > name{{}}i.
+11:46:47 162:028 > name{{}}i.n
+11:46:47 162:029 > name{{}}i.na
+11:46:47 162:030 > name{{}}i.nam
+11:46:47 162:031 > name{{}}i.name
+
+11:46:50 163:008 > t
+11:46:51 163:009 > td
+11:46:51 163:008 > <td></td>
+11:46:56 163:012 > s
+11:46:56 163:013 > sp
+11:46:56 163:014 > spa
+11:46:56 163:015 > span
+11:46:57 163:012 > <span></span>
+11:47:01 163:018 > {
+11:47:02 163:019 > {{
+11:47:02 163:020 > {{}
+11:47:02 163:021 > {{}}
+11:47:05 163:020 > {{}}i
+11:47:06 163:021 > {{}}i.
+11:47:06 163:022 > {{}}i.q
+11:47:06 163:023 > {{}}i.qu
+11:47:06 163:024 > {{}}i.qua
+11:47:07 163:025 > {{}}i.quan
+11:47:07 163:026 > {{}}i.quant
+11:47:07 163:027 > {{}}i.quanti
+11:47:07 163:028 > {{}}i.quantit
+11:47:07 163:029 > {{}}i.quantiti
+11:47:07 163:030 > {{}}i.quantitiy
+11:47:12 163:029 > {{}}i.quantitiyy
+
+11:47:15 164:008 > t
+11:47:15 164:009 > td
+
+11:47:47 161:016 > c
+11:47:47 161:017 > ca
+11:47:47 161:018 > cal
+11:47:48 161:019 > cals
+11:47:48 161:020 > calss
+11:47:49 161:017 > calss l
+11:47:49 161:018 > calss la
+11:47:50 161:019 > calss las
+11:47:50 161:020 > calss lass
+11:47:52 161:016 > calss lass c
+11:47:52 161:017 > calss lass cl
+11:47:52 161:018 > calss lass cla
+11:47:53 161:019 > calss lass clas
+11:47:53 161:020 > calss lass class
+11:47:53 161:016 > class=""
+11:47:57 161:023 > c
+11:47:58 161:024 > ca
+11:47:58 161:025 > car
+11:47:58 161:026 > cart
+11:48:00 161:027 > cart-
+11:48:00 161:028 > cart-p
+11:48:01 161:029 > cart-pr
+11:48:01 161:030 > cart-pro
+11:48:01 161:031 > cart-prod
+11:48:01 161:032 > cart-produ
+11:48:01 161:033 > cart-produc
+11:48:01 161:034 > cart-product
+11:48:03 161:035 > cart-product-
+11:48:03 161:036 > cart-product-t
+11:48:03 161:037 > cart-product-th
+11:48:03 161:038 > cart-product-thu
+11:48:04 161:039 > cart-product-thum
+11:48:04 161:040 > cart-product-thumb
+11:48:04 161:041 > cart-product-thumbn
+11:48:04 161:042 > cart-product-thumbna
+11:48:05 161:043 > cart-product-thumbnai
+11:48:05 161:044 > cart-product-thumbnail
+
+11:48:08 162:012 > c
+11:48:09 162:013 > cl
+11:48:09 162:014 > cla
+11:48:09 162:015 > clas
+11:48:09 162:016 > class
+11:48:11 162:014 > class a
+11:48:11 162:015 > class as
+11:48:12 162:012 > class=""
+11:48:14 162:019 > c
+11:48:14 162:020 > ca
+11:48:14 162:021 > car
+11:48:14 162:022 > cart
+11:48:15 162:023 > cart-
+11:48:15 162:024 > cart-p
+11:48:15 162:025 > cart-pr
+11:48:15 162:026 > cart-pro
+11:48:16 162:027 > cart-prod
+11:48:16 162:028 > cart-produ
+11:48:16 162:029 > cart-produc
+11:48:16 162:030 > cart-product
+11:48:17 162:031 > cart-product-
+11:48:18 162:032 > cart-product-n
+11:48:18 162:033 > cart-product-na
+11:48:18 162:034 > cart-product-nam
+11:48:18 162:035 > cart-product-name
+
+11:48:22 163:012 > c
+11:48:22 163:013 > ca
+11:48:22 163:014 > cal
+11:48:22 163:015 > cals
+11:48:22 163:016 > calss
+11:48:23 163:012 > class=""
+11:48:26 163:019 > q
+11:48:27 163:020 > qa
+11:48:27 163:021 > qau
+11:48:28 163:020 > qauy
+11:48:28 163:021 > qauya
+11:48:29 163:021 > qauyau
+11:48:30 163:020 > qauyauu
+11:48:30 163:021 > qauyauua
+11:48:30 163:022 > qauyauuan
+11:48:31 163:023 > qauyauuant
+11:48:31 163:024 > qauyauuanti
+11:48:31 163:025 > qauyauuantit
+11:48:31 163:026 > qauyauuantity
+
+11:48:45 164:008 > t
+11:48:45 164:009 > td
+11:48:46 164:008 > <td></td>
+11:48:51 164:012 >  c
+11:48:51 164:013 >  cl
+11:48:51 164:014 >  cla
+11:48:51 164:015 >  clas
+11:48:51 164:016 >  class
+11:48:52 164:012 > class=""
+11:48:54 164:019 > c
+11:48:54 164:020 > ca
+11:48:54 164:021 > car
+11:48:54 164:022 > cart
+11:48:55 164:023 > cart-
+11:48:55 164:024 > cart-p
+11:48:55 164:025 > cart-pr
+11:48:55 164:026 > cart-pro
+11:48:56 164:027 > cart-prod
+11:48:56 164:028 > cart-produ
+11:48:56 164:029 > cart-produc
+11:48:56 164:030 > cart-product
+11:48:58 164:031 > cart-product -
+11:48:58 164:032 > cart-product -d
+11:48:58 164:033 > cart-product -de
+11:48:58 164:034 > cart-product -det
+11:48:58 164:035 > cart-product -deta
+11:48:59 164:036 > cart-product -detai
+11:48:59 164:037 > cart-product -detail
+11:48:59 164:038 > cart-product -details
+11:49:09 164:032 > cart-product -detailss
+11:49:09 164:033 > cart-product -detailssu
+11:49:09 164:034 > cart-product -detailssub
+11:49:10 164:035 > cart-product -detailssubt
+11:49:10 164:036 > cart-product -detailssubto
+11:49:11 164:037 > cart-product -detailssubtot
+11:49:11 164:038 > cart-product -detailssubtota
+11:49:11 164:039 > cart-product -detailssubtotal
+11:49:27 164:042 > cart-product -detailssubtotala
+11:49:27 164:043 > cart-product -detailssubtotalap
+11:49:27 164:044 > cart-product -detailssubtotalapn
+11:49:29 164:042 > cart-product -detailssubtotalapns
+11:49:29 164:043 > cart-product -detailssubtotalapnsp
+11:49:29 164:044 > cart-product -detailssubtotalapnspa
+11:49:30 164:042 > <span></span>
+11:49:36 164:048 >   c
+11:49:37 164:049 >   cl
+11:49:37 164:050 >   cla
+11:49:37 164:051 >   clas
+11:49:37 164:052 >   class
+11:49:37 164:048 > class=""
+11:49:39 164:055 > a
+11:49:39 164:056 > am
+11:49:39 164:057 > amo
+11:49:40 164:058 > amou
+11:49:40 164:059 > amoun
+11:49:40 164:060 > amount
+11:49:44 164:063 > {}
+11:49:45 164:064 > {}
+11:49:45 164:065 > }
+11:49:45 164:066 > }}
+11:49:49 164:065 > }}i
+11:49:50 164:066 > }}i.
+11:49:50 164:067 > }}i.m
+11:49:50 164:068 > }}i.mo
+11:49:52 164:067 > }}i.moa
+11:49:52 164:068 > }}i.moam
+11:49:52 164:069 > }}i.moamo
+11:49:52 164:070 > }}i.moamou
+11:49:52 164:071 > }}i.moamoun
+11:49:53 164:072 > }}i.moamouny
+11:49:54 164:072 > }}i.moamounyt
+11:49:58 164:067 > }}i.moamounytt
+11:49:58 164:068 > }}i.moamounytto
+11:49:58 164:069 > }}i.moamounyttot
+11:49:58 164:070 > }}i.moamounyttoto
+11:49:59 164:071 > }}i.moamounyttotoa
+11:49:59 164:072 > }}i.moamounyttotoal
+11:50:00 164:073 > }}i.moamounyttotoal_
+11:50:02 164:070 > }}i.moamounyttotoal_a
+11:50:02 164:071 > }}i.moamounyttotoal_al
+11:50:03 164:072 > }}i.moamounyttotoal_al_
+11:50:05 164:073 > }}i.moamounyttotoal_al_p
+11:50:05 164:074 > }}i.moamounyttotoal_al_pr
+11:50:05 164:075 > }}i.moamounyttotoal_al_pri
+11:50:05 164:076 > }}i.moamounyttotoal_al_pric
+11:50:05 164:077 > }}i.moamounyttotoal_al_price
+11:50:14 167:008 > {}
+
+11:50:15 167:009 > %
+11:50:16 167:010 > %%
+11:50:18 167:011 > %% e
+11:50:18 167:012 > %% en
+11:50:18 167:013 > %% end
+11:50:19 167:014 > %% endf
+11:50:19 167:015 > %% endfo
+11:50:19 167:016 > %% endfor
+11:50:37 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:51:25 162:002 > c
+11:51:25 162:003 > ci
+11:51:25 162:004 > cid
+11:51:26 162:006 > cid =
+11:51:27 162:008 > cid = a
+11:51:27 162:009 > cid = ad
+11:51:27 162:010 > cid = add
+11:51:31 162:008 > add_to_cart
+11:51:32 162:019 > .
+11:51:34 162:020 > .o
+11:51:35 162:021 > .ob
+11:51:35 162:022 > .obj
+11:51:35 162:023 > .obje
+11:51:36 162:023 > '''
+  get_email_sent(request,receiver=[],subject='',context = {},template='emails/progress.html') 
+  
+  '''
+  from django.conf import settings
+  from django.template.loader import render_to_string
+  from django.core.mail import EmailMultiAlternatives
+  from django.utils.html import strip_tags
+  
+  def function(request,**kwargs):
+     sender = settings.EMAIL_HOST_USER
+     receiver = kwargs['receiver']
+     subject = kwargs['subject']
+     context = kwargs['context']
+     html_content = render_to_string(kwargs['template'], context) # render with dynamic value
+     text_content = strip_tags(html_content) # Strip the html tag. So people can see the pure text at least.
+     email = EmailMultiAlternatives(subject, text_content, sender, receiver)
+     email.attach_alternative(html_content, "text/html")
+     email.send(fail_silently=True)
+     return True
+11:51:38 162:023 > e
+11:51:39 162:024 > ec
+11:51:39 162:025 > ect
+11:51:39 162:026 > ects
+11:51:40 162:027 > ects.
+11:51:45 162:028 > ects.a
+11:51:45 162:029 > ects.al
+11:51:45 162:030 > ects.all
+11:51:46 162:028 > Variable = ModelName.objects.all()
+11:51:47 162:028 > all
+11:51:54 163:031 > ()
+
+11:52:03 165:002 > c
+11:52:03 165:003 > co
+11:52:03 165:004 > con
+11:52:04 165:005 > cont
+11:52:04 165:006 > conte
+11:52:04 165:007 > contex
+11:52:05 165:008 > context
+11:52:06 165:010 > context =
+11:52:07 165:012 > {}
+11:52:15 166:004 > ''
+
+11:52:15 166:005 > c
+11:52:16 166:006 > co
+11:52:16 166:007 > coi
+11:52:17 166:006 > coii
+11:52:17 166:007 > coiid
+11:52:18 166:009 > coiid :
+11:52:22 166:008 > coiid : '
+11:52:23 166:010 > coiid : ' :
+11:52:24 166:012 > coiid : ' : i
+11:52:24 166:013 > coiid : ' : id
+11:52:25 166:012 > coiid : ' : idc
+11:52:25 166:013 > coiid : ' : idcd
+11:52:25 166:014 > coiid : ' : idcdi
+11:52:26 166:013 > coiid : ' : idcdii
+11:52:26 166:014 > coiid : ' : idcdiid
+
+11:52:33 169:047 > ,
+11:52:34 169:048 > ,c
+11:52:34 169:049 > ,co
+11:52:34 169:050 > ,con
+11:52:34 169:051 > ,cona
+11:52:39 169:048 > context=
+11:53:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:53:28 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:53:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:53:33 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:54:01 163:020 > o
+11:54:01 163:021 > ob
+11:54:02 163:022 > obj
+11:54:02 163:023 > obje
+11:54:03 163:024 > objec
+11:54:14 163:020 > objeco
+11:54:15 163:021 > objecob
+11:54:15 163:022 > objecobj
+11:54:15 163:023 > objecobje
+11:54:16 163:024 > objecobjec
+11:54:16 163:025 > objecobject
+11:54:16 163:026 > objecobjects
+11:54:17 163:027 > objecobjects.
+11:54:18 163:028 > objecobjects.a
+11:54:18 163:029 > objecobjects.al
+11:54:18 163:030 > objecobjects.all
+11:54:21 163:028 > Variable = ModelName.objects.all()
+11:54:23 163:028 > all
+11:54:26 163:008 > a
+11:54:27 163:009 > ad
+11:54:27 163:010 > add
+11:54:30 163:008 > Add_to_cart
+11:54:32 163:019 > .
+11:54:32 163:020 > .o
+11:54:33 163:020 > objects
+11:54:34 163:027 > .
+11:54:34 163:028 > .a
+11:54:34 163:029 > .al
+11:54:34 163:030 > .all
+11:54:35 163:031 > ()
+11:54:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:55:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:55:11 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:55:17 161:103 > }
+11:55:20 161:092 > }{
+
+11:55:37 150:023 > 1
+11:55:37 150:024 > 14
+
+11:56:00 152:021 > 2
+
+11:56:35 161:008 > b
+11:56:35 161:009 > br
+11:56:36 161:008 > <br>
+11:56:48 161:008 > a
+11:56:49 161:009 > al
+
+11:57:11 152:013 > c
+11:57:11 152:014 > cl
+11:57:12 152:015 > cla
+11:57:12 152:016 > clas
+11:57:12 152:017 > class
+11:57:14 152:016 > class s
+11:57:15 152:013 > class=""
+11:57:16 152:020 > t
+11:57:17 152:021 > ta
+11:57:17 152:022 > tab
+11:57:17 152:023 > tabl
+11:57:17 152:024 > table
+11:57:18 152:025 > table-
+11:57:18 152:026 > table-c
+11:57:18 152:027 > table-ca
+11:57:19 152:028 > table-car
+11:57:19 152:029 > table-cart
+11:57:20 152:030 > table-cart-
+11:57:20 152:031 > table-cart-c
+11:57:20 152:032 > table-cart-ch
+11:57:20 152:033 > table-cart-che
+11:57:21 152:034 > table-cart-chec
+11:57:22 152:034 > table-cart-checc
+11:57:22 152:035 > table-cart-checck
+11:57:22 152:036 > table-cart-checcko
+11:57:24 152:037 > table-cart-checckou
+11:57:24 152:038 > table-cart-checckout
+11:59:30 152:020 > table-cart-checckoutt
+11:59:30 152:021 > table-cart-checckoutta
+11:59:30 152:022 > table-cart-checckouttab
+11:59:31 152:023 > table-cart-checckouttabl
+11:59:31 152:024 > table-cart-checckouttable
+
+12:00:56 161:095 > .
+12:00:56 161:096 > .n
+12:00:56 161:097 > .na
+12:00:56 161:098 > .nam
+12:00:57 161:099 > .name
+12:01:08 161:096 > .namep
+12:01:08 161:097 > .namepi
+12:01:09 161:098 > .namepic
+12:01:09 161:099 > .namepic.
+12:01:10 161:100 > .namepic.r
+12:01:10 161:101 > .namepic.rl
+12:01:12 161:100 > .namepic.rlu
+12:01:12 161:101 > .namepic.rlur
+12:01:12 161:102 > .namepic.rlurl
+
+12:01:21 162:054 > p
+12:01:22 162:055 > pr
+12:01:22 162:056 > pri
+12:01:23 162:057 > pric
+12:01:23 162:058 > price
+
+12:01:56 154:020 > p
+12:01:57 154:021 > pi
+12:01:57 154:022 > pic
+
+12:02:03 155:008 > t
+12:02:03 155:009 > th
+12:02:03 155:008 > <th></th>
+12:02:05 155:012 > p
+12:02:05 155:013 > pr
+12:02:06 155:014 > pro
+12:02:06 155:015 > prod
+12:02:06 155:016 > produ
+12:02:06 155:017 > produc
+12:02:06 155:018 > product
+12:02:07 155:020 > product n
+12:02:07 155:021 > product nm
+12:02:07 155:022 > product nma
+12:02:07 155:023 > product nmae
+12:02:09 155:021 > product nmaea
+12:02:09 155:022 > product nmaeam
+12:02:09 155:023 > product nmaeame
+
+12:03:35 167:032 > p
+12:03:36 167:033 > pr
+12:03:36 167:034 > pri
+12:03:37 167:035 > pric
+12:03:37 167:036 > price
+
+12:03:54 174:009 > m
+
+12:04:04 167:009 > t
+12:04:04 167:010 > td
+12:04:04 167:009 > <td></td>
+12:04:09 167:013 >  c
+12:04:10 167:014 >  cl
+12:04:10 167:015 >  cla
+12:04:10 167:016 >  clas
+12:04:10 167:017 >  class
+12:04:12 167:015 >  class a
+12:04:12 167:016 >  class as
+12:04:12 167:017 >  class ass
+12:04:12 167:013 > class=""
+12:04:16 167:020 > c
+12:04:17 167:021 > ca
+12:04:17 167:022 > car
+12:04:17 167:023 > cart
+12:04:18 167:024 > cart-
+12:04:19 167:025 > cart-p
+12:04:19 167:026 > cart-pr
+12:04:19 167:027 > cart-pro
+12:04:19 167:028 > cart-prod
+12:04:19 167:029 > cart-produ
+12:04:19 167:030 > cart-produc
+12:04:20 167:031 > cart-product
+12:04:20 167:033 > cart-product n
+12:04:20 167:034 > cart-product na
+12:04:21 167:035 > cart-product nam
+12:04:21 167:036 > cart-product name
+12:04:23 167:032 > cart-product name-
+12:04:24 167:033 > cart-product name-n
+12:04:24 167:034 > cart-product name-na
+12:04:24 167:035 > cart-product name-nae
+12:04:25 167:035 > cart-product name-naem
+12:04:25 167:036 > cart-product name-naeme
+
+12:04:30 168:012 > a
+12:04:31 168:012 > <a href=""></a>
+12:04:33 168:021 > #
+12:04:35 168:024 > #i
+12:04:36 168:025 > #im
+12:04:36 168:024 > <img src="" alt="">
+12:04:50 168:024 > {
+12:04:50 168:025 > {{
+12:04:50 168:026 > {{}
+12:04:51 168:027 > {{}}
+12:04:53 168:026 > {{}}i
+12:04:53 168:027 > {{}}i.
+12:04:54 168:028 > {{}}i.n
+12:04:54 168:029 > {{}}i.nm
+12:04:54 168:030 > {{}}i.nma
+12:04:54 168:031 > {{}}i.nmae
+12:04:57 168:029 > {{}}i.nmaea
+12:04:57 168:030 > {{}}i.nmaeam
+12:04:57 168:031 > {{}}i.nmaeame
+
+12:09:18 152:055 > 5
+12:09:28 152:055 > 52
+12:09:28 152:056 > 520
+12:10:07 152:006 > 520h
+12:10:10 152:007 > 520h2
+12:10:10 152:006 > <h2></h2>
+12:10:17 152:010 > C
+12:10:17 152:011 > CH
+12:10:19 152:011 > CHe
+12:10:20 152:011 > CHeh
+12:10:20 152:012 > CHehe
+12:10:20 152:013 > CHehek
+12:10:21 152:014 > CHeheko
+12:10:21 152:015 > CHehekou
+12:10:21 152:016 > CHehekout
+12:10:22 152:010 > checkout
+12:10:31 152:010 > C
+12:10:34 152:019 > C a
+12:10:34 152:020 > C al
+
+12:10:55 189:006 > d
+12:10:55 189:007 > di
+12:10:59 189:006 > dih
+12:10:59 189:007 > dih2
+12:11:01 189:006 > <h2></h2>
+12:11:03 189:010 > C
+12:11:03 189:011 > Ca
+12:11:04 189:012 > Car
+12:11:04 189:013 > Cart
+12:11:05 189:015 > Cart t
+12:11:05 189:016 > Cart to
+12:11:05 189:017 > Cart tot
+12:11:05 189:018 > Cart toto
+12:11:05 189:019 > Cart totol
+12:11:07 189:018 > Cart totola
+12:11:07 189:019 > Cart totolal
+
+12:11:18 191:006 > t
+12:11:18 191:007 > ta
+12:11:18 191:008 > tab
+12:11:19 191:006 > <table></table>
+12:11:21 191:013 >  c
+12:11:21 191:014 >  ca
+12:11:21 191:015 >  cas
+12:11:23 191:014 >  cas l
+12:11:23 191:015 >  cas la
+12:11:23 191:016 >  cas las
+12:11:23 191:013 > class=""
+12:11:25 191:020 > t
+12:11:25 191:021 > ta
+12:11:25 191:022 > tab
+12:11:26 191:023 > tabl
+12:11:26 191:024 > table
+12:11:28 191:025 > table -
+12:11:28 191:026 > table -c
+12:11:28 191:027 > table -ca
+12:11:29 191:028 > table -car
+12:11:29 191:029 > table -cart
+12:11:31 191:031 > table -cart b
+12:11:31 191:032 > table -cart bo
+12:11:32 191:033 > table -cart bor
+12:11:32 191:034 > table -cart bord
+12:11:33 191:035 > table -cart borde
+12:11:33 191:036 > table -cart border
+12:11:34 191:037 > table -cart border=
+12:11:36 191:038 > table -cart border=1
+12:11:37 191:038 > table -cart border=1"
+12:11:48 191:030 > table -cart border=1""
+
+12:11:55 192:007 > t
+12:11:55 192:008 > tb
+12:11:55 192:009 > tbo
+12:11:56 192:007 > <tbody></tbody>
+
+12:11:58 193:008 > t
+12:11:58 193:009 > td
+12:12:00 193:009 > tdr
+12:12:00 193:008 > <tr></tr>
+12:12:10 193:012 >  c
+12:12:11 193:013 >  cl
+12:12:11 193:014 >  cla
+12:12:11 193:015 >  claa
+12:12:12 193:015 >  claas
+12:12:12 193:016 >  claass
+12:12:24 193:012 > class=""
+12:12:25 193:019 > c
+12:12:25 193:020 > ca
+12:12:26 193:021 > car
+12:12:26 193:022 > cart
+12:12:28 193:023 > cart-
+12:12:29 193:024 > cart-t
+12:12:30 193:025 > cart-to
+12:12:31 193:026 > cart-toa
+12:12:31 193:027 > cart-toal
+
+12:12:35 194:009 > t
+12:12:36 194:010 > td
+12:12:36 194:009 > <td></td>
+
+12:13:07 191:006 > t
+12:13:08 191:006 > <table></table>
+12:13:12 191:013 >  b
+12:13:12 191:014 >  bo
+12:13:13 191:013 > border=""
+12:13:14 191:021 > 1
+
+12:13:31 192:013 > t
+12:13:34 192:013 > tt
+12:13:35 192:014 > ttr
+12:13:36 192:013 > <tr></tr>
+12:13:39 192:017 > s
+12:13:39 192:018 > su
+12:13:40 192:018 > sub
+12:13:42 192:018 > subu
+12:13:43 192:019 > subub
+12:13:44 192:021 > subub t
+12:13:44 192:022 > subub to
+12:13:45 192:023 > subub tot
+12:13:45 192:024 > subub tota
+12:13:45 192:025 > subub total
+
+12:14:02 194:020 > t
+12:14:02 194:021 > th
+12:14:03 194:020 > <th></th>
+12:14:05 194:024 > s
+12:14:05 194:025 > su
+12:14:06 194:026 > sub
+12:14:08 194:027 > subt
+12:14:08 194:028 > subto
+12:14:08 194:029 > subtot
+12:14:08 194:030 > subtota
+12:14:09 194:031 > subtotal
+
+12:14:16 195:010 > t
+12:14:17 195:011 > th
+12:14:17 195:010 > <th></th>
+12:14:20 195:014 > s
+12:14:20 195:015 > si
+12:14:21 195:016 > sip
+12:14:21 195:017 > sipi
+12:14:21 195:018 > sipin
+12:14:22 195:019 > siping
+12:14:30 195:015 > sipingh
+12:14:33 195:018 > sipinghp
+
+12:14:37 196:010 > t
+12:14:37 196:011 > th
+12:14:38 196:010 > <th></th>
+12:14:40 196:014 > t
+12:14:40 196:015 > to
+12:14:40 196:016 > tot
+12:14:40 196:017 > tota
+12:14:40 196:018 > total
+
+12:14:45 199:007 > t
+12:14:46 199:008 > tr
+12:14:47 199:007 > <tr></tr>
+
+12:14:50 200:007 > t
+12:14:50 200:008 > td
+12:14:51 200:007 > <td></td>
+12:14:59 200:011 > {
+12:14:59 200:012 > {{
+12:15:00 200:013 > {{}
+12:15:00 200:014 > {{}}
+12:15:03 200:013 > {{}}s
+12:15:03 200:014 > {{}}su
+12:15:04 200:015 > {{}}sub
+12:15:05 200:016 > {{}}subt
+12:15:05 200:017 > {{}}subta
+12:15:07 200:017 > {{}}subtao
+12:15:07 200:018 > {{}}subtaot
+12:15:07 200:019 > {{}}subtaota
+12:15:07 200:020 > {{}}subtaotal
+
+12:15:12 201:007 > t
+12:15:13 201:008 > td
+12:15:14 201:007 > <td></td>
+12:15:15 201:011 > {
+12:15:16 201:012 > {{
+12:15:16 201:013 > {{}
+12:15:16 201:014 > {{}}
+12:15:19 201:013 > {{}}s
+12:15:20 201:014 > {{}}sh
+12:15:20 201:015 > {{}}shi
+12:15:21 201:016 > {{}}ship
+12:15:22 201:017 > {{}}shipp
+12:15:22 201:018 > {{}}shippi
+12:15:22 201:019 > {{}}shippin
+12:15:23 201:020 > {{}}shipping
+
+12:15:28 202:007 > t
+12:15:28 202:008 > td
+12:15:29 202:007 > <td></td>
+12:15:31 202:011 > {
+12:15:31 202:012 > {{
+12:15:32 202:013 > {{}
+12:15:32 202:014 > {{}}
+12:15:36 202:013 > {{}}t
+12:15:36 202:014 > {{}}ta
+12:15:38 202:014 > {{}}tao
+12:15:38 202:015 > {{}}taot
+12:15:38 202:016 > {{}}taota
+12:15:39 202:017 > {{}}taotal
+
+12:15:51 191:014 > t
+12:15:51 191:015 > ta
+12:15:51 191:016 > tab
+12:15:52 191:017 > tabl
+12:15:52 191:018 > table
+12:16:48 191:014 > table c
+12:16:48 191:015 > table cl
+12:16:49 191:014 > class
+12:16:50 191:014 > clborder
+12:16:54 191:013 >  c
+12:16:54 191:014 >  cl
+12:16:54 191:015 >  cla
+12:16:54 191:016 >  clas
+12:16:54 191:017 >  class
+12:16:55 191:013 > class=""
+12:16:56 191:020 > t
+12:16:56 191:021 > ta
+12:16:56 191:022 > tab
+12:16:57 191:023 > tabl
+12:16:57 191:024 > table
+12:16:58 191:025 > table-
+12:16:58 191:026 > table-c
+12:16:58 191:027 > table-ca
+12:16:58 191:028 > table-car
+12:16:58 191:029 > table-cart
+12:17:00 191:030 > table-cart-
+12:17:01 191:031 > table-cart-t
+12:17:02 191:032 > table-cart-to
+12:17:02 191:033 > table-cart-tot
+12:17:02 191:034 > table-cart-tota
+12:17:03 191:035 > table-cart-total
+12:17:46 190:006 > <div class="col-lg-14">
+					<div class="order-detais-wrap">
+12:17:52 192:008 > <h2>Cart total</h2>
+
+12:18:08 214:006 > <
+12:18:09 214:007 > <?
+12:18:11 214:006 > <?<
+12:18:11 214:000 > </div>
+
+12:18:13 215:007 > <
+12:18:14 215:000 > </div>
+
+12:18:38 203:011 > c
+12:18:39 203:012 > cl
+12:18:39 203:013 > cla
+12:18:39 203:014 > clas
+12:18:39 203:015 > class
+12:18:40 203:011 > class=""
+12:18:40 203:018 > c
+12:18:40 203:019 > ca
+12:18:41 203:020 > car
+12:18:41 203:021 > cart
+12:18:42 203:022 > cart-
+12:18:42 203:023 > cart-s
+12:18:42 203:024 > cart-su
+12:18:43 203:025 > cart-sut
+12:18:44 203:026 > cart-sutt
+12:18:45 203:026 > cart-suttp
+12:18:46 203:026 > cart-suttpo
+12:18:46 203:027 > cart-suttpoy
+12:18:47 203:027 > cart-suttpoyt
+12:18:47 203:028 > cart-suttpoyta
+12:18:48 203:029 > cart-suttpoyta;
+12:18:49 203:029 > cart-suttpoyta;l
+12:19:42 189:006 > <div class="col-lg-14">
+					<div class="order-detais-wrap">
+						<h2>Checkout </h2>
+						<table class="table table-cart-checkout" border="20">
+							<tr>
+								<th>Product pic</th>
+								<th>product name</th>
+								<th>price</th>
+								<th>quantity</th>
+								<th>total</th>
+							</tr>
+							<tbody>
+								{% for i in cid %}
+								<tr>
+									<td class="cart-product-thumbnail">
+									   <a href="#"><img width="64" height="64" src="{{i.pic.url}}"></a>
+								 </td>
+
+								 <td class="cart-product-name">
+									   <a href="#">{{i.name}}</a>
+
+								 </td>
+
+								<td class="cart-product-price">
+									   <a href="#">{{i.price}}</a>
+								</td>
+								<td class="quantity">
+									  <span>{{i.quantity}}</span>
+								</td>
+								<td class="cart-product-subtotal">
+									  <span class="amount">{{i.total_price}}</span>
+								</td>
+								
+								</tr>
+								{% endfor %}
+							</tbody>
+
+						</table>
+
+12:20:05 195:014 > S
+12:20:06 195:015 > Su
+12:20:06 195:016 > Sub
+12:20:07 195:017 > Subt
+12:20:07 195:018 > Subto
+12:20:07 195:019 > Subtot
+12:20:07 195:020 > Subtota
+12:20:08 195:021 > Subtotal
+
+12:20:14 196:014 > h
+12:20:15 196:014 > hS
+12:20:16 196:015 > hSh
+12:20:17 196:016 > hShi
+12:20:17 196:017 > hShip
+12:20:17 196:018 > hShipp
+12:20:17 196:019 > hShippi
+12:20:17 196:020 > hShippin
+12:20:18 196:021 > hShipping
+12:20:45 205:026 > {}
+
+12:20:46 205:027 > s
+12:20:46 205:028 > su
+12:20:46 205:029 > sub
+12:20:47 205:030 > subt
+12:20:48 205:031 > subto
+12:20:49 205:032 > subtot
+12:20:49 205:033 > subtota
+12:20:49 205:034 > subtotal
+
+12:20:55 210:027 > s
+12:20:55 210:028 > sh
+12:20:55 210:029 > shi
+12:20:55 210:030 > ship
+12:20:56 210:031 > shipi
+12:20:56 210:032 > shipip
+12:20:58 210:031 > shipipp
+12:20:59 210:032 > shipippi
+12:20:59 210:033 > shipippin
+12:20:59 210:034 > shipipping
+
+12:21:05 209:034 > s
+12:21:06 209:035 > sh
+12:21:06 209:036 > shi
+12:21:06 209:037 > ship
+12:21:06 209:038 > shipp
+12:21:07 209:039 > shippi
+12:21:07 209:040 > shippin
+12:21:07 209:041 > shipping
+
+12:21:10 204:035 > t
+12:21:11 204:036 > to
+12:21:11 204:037 > tot
+12:21:11 204:038 > tota
+12:21:11 204:039 > total
+
+12:21:17 215:034 > t
+12:21:18 215:035 > to
+12:21:18 215:036 > tot
+12:21:18 215:037 > tota
+12:21:18 215:038 > total
+
+12:21:23 216:035 > r
+12:21:24 216:035 > rt
+12:21:24 216:036 > rto
+12:21:24 216:037 > rtot
+12:21:25 216:038 > rtota
+12:21:25 216:039 > rtotal
+
+12:22:20 192:057 > 1
+12:22:20 192:058 > 10
+
+12:22:26 191:013 > a
+12:22:27 191:014 > ar
+12:22:27 191:015 > art
+12:22:28 191:017 > art t
+12:22:28 191:018 > art tp
+12:22:29 191:018 > art tpo
+12:22:29 191:019 > art tpot
+12:22:29 191:020 > art tpota
+12:22:29 191:021 > art tpotal
+
+12:22:43 153:055 > 1
+12:22:43 153:056 > 10
+
+12:23:31 228:006 > b
+12:23:31 228:007 > br
+12:23:32 228:006 > <br>
+12:23:33 228:010 > b
+12:23:33 228:011 > br
+12:23:34 228:010 > <br>
+
+12:24:16 193:013 > {
+12:24:25 193:014 > {t
+12:24:25 193:015 > {te
+12:24:26 193:016 > {tex
+12:24:26 193:017 > {text
+12:24:28 193:019 > {text a
+12:24:28 193:020 > {text al
+12:24:28 193:021 > {text ali
+12:24:30 193:018 > {text ali-
+12:24:31 193:019 > {text ali-a
+12:24:31 193:020 > {text ali-ai
+12:24:31 193:021 > {text ali-aig
+12:24:32 193:022 > {text ali-aign
+12:24:34 193:020 > {text ali-aignl
+12:24:34 193:021 > {text ali-aignli
+12:24:35 193:022 > {text ali-aignlig
+12:24:35 193:023 > {text ali-aignlign
+12:24:36 193:024 > {text ali-aignlign:
+12:24:43 193:026 > {text ali-aignlign: c
+12:24:43 193:027 > {text ali-aignlign: ce
+12:24:44 193:028 > {text ali-aignlign: cen
+12:24:44 193:029 > {text ali-aignlign: cent
+12:24:46 193:030 > {text ali-aignlign: cente
+12:24:46 193:031 > {text ali-aignlign: center
+12:24:51 193:032 > {text ali-aignlign: center;
+12:24:52 193:034 > {text ali-aignlign: center; }
+12:24:54 193:033 > {text ali-aignlign: center; }}
+12:24:56 193:013 > text-align: center;
+12:25:12 193:032 > }
+12:25:14 193:013 > }{
+
+12:25:44 194:008 > h
+12:25:44 194:009 > h2
+12:25:45 194:011 > h2 t
+12:25:45 194:012 > h2 te
+12:25:46 194:013 > h2 tet
+12:25:46 194:013 > h2 tetx
+12:25:47 194:014 > h2 tetxt
+12:25:50 194:015 > h2 tetxt_
+12:25:51 194:015 > h2 tetxt_-
+12:25:51 194:016 > h2 tetxt_-a
+12:25:52 194:017 > h2 tetxt_-al
+12:25:52 194:018 > h2 tetxt_-ali
+12:25:52 194:019 > h2 tetxt_-alig
+12:25:53 194:020 > h2 tetxt_-align
+12:25:54 194:021 > h2 tetxt_-align:
+12:25:55 194:023 > h2 tetxt_-align: c
+12:25:55 194:024 > h2 tetxt_-align: ce
+12:25:56 194:025 > h2 tetxt_-align: cen
+12:25:56 194:026 > h2 tetxt_-align: cent
+12:25:56 194:027 > h2 tetxt_-align: cente
+12:25:57 194:028 > h2 tetxt_-align: center
+12:25:57 194:029 > h2 tetxt_-align: center;
+12:25:58 194:030 > h2 tetxt_-align: center;}
+12:26:01 194:011 > h2 tetxt_-align: center;}{
+
+12:27:20 193:008 > s
+12:27:21 193:009 > st
+12:27:21 193:010 > sty
+12:27:21 193:011 > stye
+12:27:22 193:012 > styel
+12:27:22 193:013 > styele
+12:27:23 193:008 > stylesheet
+12:27:24 193:008 > styele
+12:27:26 193:008 > s
+12:27:26 193:009 > st
+12:27:29 193:008 > <style></style>
+12:27:38 195:008 > </style>
+12:28:03 193:015 > </style>
+12:28:06 193:016 >  h
+12:28:07 193:017 >  h2
+12:28:08 193:016 > h2
+12:28:14 193:016 > h2
+
+12:28:21 194:013 > s
+12:28:22 194:014 > st
+12:28:24 194:013 > <style></style>
+12:28:27 194:020 > t
+12:28:28 194:021 > te
+12:28:28 194:022 > tex
+12:28:28 194:023 > text
+12:28:31 194:024 > text-
+12:28:32 194:025 > text-a
+12:28:32 194:026 > text-al
+12:28:32 194:027 > text-ali
+12:28:33 194:028 > text-alig
+12:28:33 194:029 > text-align
+12:28:34 194:030 > text-align:
+12:28:35 194:032 > text-align: c
+12:28:35 194:033 > text-align: ce
+12:28:36 194:034 > text-align: cen
+12:28:36 194:035 > text-align: cent
+12:28:36 194:036 > text-align: cente
+12:28:36 194:037 > text-align: center
+12:28:38 194:038 > text-align: center;
+12:28:53 194:013 > st
+
+12:38:20 149:008 > f
+12:38:20 149:009 > fo
+12:38:21 149:010 > for
+12:38:21 149:011 > form
+12:38:21 149:008 > <form action=""></form>
+12:38:23 149:022 > p
+12:38:23 149:023 > ps
+12:38:23 149:024 > pso
+12:38:23 149:025 > psot
+12:38:25 149:023 > psoto
+12:38:25 149:024 > psotos
+12:38:25 149:025 > psotost
+12:38:29 149:028 > psotostc
+12:38:29 149:029 > psotostch
+12:38:29 149:030 > psotostche
+12:38:29 149:031 > psotostchec
+12:38:29 149:032 > psotostcheck
+12:38:30 149:033 > psotostchecko
+12:38:31 149:034 > psotostcheckou
+12:38:40 149:022 > psotostcheckouc
+12:38:40 149:023 > psotostcheckouch
+12:38:41 149:024 > psotostcheckouche
+12:38:41 149:025 > psotostcheckouchec
+12:38:41 149:026 > psotostcheckoucheck
+12:38:41 149:027 > psotostcheckouchecko
+12:38:41 149:028 > psotostcheckoucheckou
+12:38:42 149:029 > psotostcheckoucheckout
+12:38:49 149:031 > psotostcheckoucheckout/
+12:39:10 149:030 > psotostcheckoucheckout//
+12:39:12 149:022 > psotostcheckoucheckout///
+12:39:59 227:008 > </form>
+12:40:09 235:004 > </form>
+
+12:42:06 237:004 > <
+12:42:08 237:000 > </div>
+
+12:42:09 238:003 > <
+12:42:10 238:000 > </div>
+12:49:09 241:001 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+12:49:19 239:002 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+12:49:55 258:001 > {% else %} {% endcomment %}
+12:50:02 264:001 > {% comment %} {% endif %} {% endcomment %}
+12:50:13 238:008 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+12:52:06 255:002 > {% comment %} {% if not all_address %}
+12:52:07 258:000 > {% else %} {% endcomment %}
+12:52:07 264:002 > {% comment %} {% endif %} {% endcomment %}
+
+12:52:07 264:002 > z
+12:52:08 264:003 > zz
+12:52:08 264:004 > zzz
+12:52:09 264:005 > zzzz
+12:52:09 264:006 > zzzzz
+12:52:09 264:007 > zzzzzz
+12:52:10 264:002 > {% comment %} {% endif %} {% endcomment %}

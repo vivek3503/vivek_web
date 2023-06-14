@@ -1,0 +1,885 @@
+19:15:34 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+23-06-13 19:15 Session started
+----------------------------------------
+19:16:45 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+19:17:12 275:026 > {}
+19:17:13 275:027 > %%
+
+19:17:15 275:028 > u
+19:17:15 275:029 > ur
+19:17:16 275:030 > url
+19:17:20 275:033 > ''
+19:17:21 275:034 > c
+19:17:21 275:035 > ca
+19:17:21 275:036 > car
+19:17:22 275:037 > cart
+19:17:22 275:038 > cart'
+19:17:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index_2.html
+----------------------------------------
+19:18:00 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+19:18:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index_2.html
+----------------------------------------
+
+19:18:16 257:051 > ₹
+
+19:18:20 267:051 > ₹
+
+19:18:26 277:051 > ₹
+19:18:40 310:026 > {}
+19:18:40 310:027 > %%
+
+19:18:40 310:028 > %
+19:18:42 310:029 > % u
+19:18:42 310:030 > % ur
+19:18:42 310:031 > % url
+19:18:44 310:033 > % url '
+19:18:45 310:034 > % url 'c
+19:18:45 310:035 > % url 'ca
+19:18:46 310:036 > % url 'car
+19:18:46 310:037 > % url 'cart
+19:18:47 310:038 > % url 'cart'
+19:19:47 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+19:19:59 365:021 > {}
+
+19:19:59 365:022 > %
+19:19:59 365:023 > %%
+19:20:01 365:024 > %% u
+19:20:01 365:025 > %% ul
+19:20:02 365:024 > %% ulu
+19:20:03 365:025 > %% ulur
+19:20:03 365:026 > %% ulurl
+19:20:04 365:028 > %% ulurl '
+19:20:06 365:029 > %% ulurl 's
+19:20:07 365:030 > %% ulurl 'sh
+19:20:08 365:031 > %% ulurl 'sho
+19:20:08 365:032 > %% ulurl 'shop
+19:20:08 365:033 > %% ulurl 'shop'
+19:20:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index_2.html
+----------------------------------------
+19:20:24 400:021 > {}
+
+19:20:25 400:022 > %
+19:20:25 400:023 > %%
+19:20:26 400:024 > %% u
+19:20:26 400:025 > %% ur
+19:20:27 400:026 > %% url
+19:20:28 400:028 > %% url '
+19:20:28 400:029 > %% url 's
+19:20:28 400:030 > %% url 'sh
+19:20:28 400:031 > %% url 'sho
+19:20:28 400:032 > %% url 'shop
+19:20:29 400:033 > %% url 'shop'
+19:20:34 387:015 > {}
+
+19:20:35 387:016 > %
+19:20:35 387:017 > %%
+19:20:36 387:018 > %% u
+19:20:36 387:019 > %% ur
+19:20:36 387:020 > %% url
+19:20:38 387:022 > %% url '
+19:20:39 387:023 > %% url 'a
+19:20:40 387:024 > %% url 'ab
+19:20:40 387:025 > %% url 'abo
+19:20:40 387:026 > %% url 'abou
+19:20:40 387:027 > %% url 'about
+19:20:42 387:028 > %% url 'about'
+19:20:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+19:20:50 352:015 > {}
+
+19:20:50 352:016 > %
+19:20:50 352:017 > %%
+19:20:52 352:018 > %% u
+19:20:52 352:019 > %% ur
+19:20:52 352:020 > %% url
+19:20:53 352:022 > %% url  '
+19:20:54 352:023 > %% url  'a
+19:20:54 352:024 > %% url  'ab
+19:20:55 352:025 > %% url  'abu
+19:20:55 352:026 > %% url  'abut
+19:20:57 352:025 > %% url  'abuto
+19:20:58 352:026 > %% url  'abutou
+19:20:58 352:027 > %% url  'abutout
+19:20:58 352:028 > %% url  'abutout'
+19:29:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+19:29:50 236:002 > <div class="checkout-section mt-150 mb-150">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="checkout-accordion-wrap">
+						<div class="accordion" id="accordionExample">
+						  <div class="card single-accordion">
+						    <div class="card-header" id="headingOne">
+						      <h5 class="mb-0">
+						        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+						          Billing Address
+						        </button>
+						      </h5>
+						    </div>
+
+						    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+						      <div class="card-body">
+						        <div class="billing-address-form">
+						        	<form action="index.html">
+						        		<p><input type="text" placeholder="Name"></p>
+						        		<p><input type="email" placeholder="Email"></p>
+						        		<p><input type="text" placeholder="Address"></p>
+						        		<p><input type="tel" placeholder="Phone"></p>
+						        		<p><textarea name="bill" id="bill" cols="30" rows="10" placeholder="Say Something"></textarea></p>
+						        	</form>
+						        </div>
+						      </div>
+						    </div>
+						  </div>
+19:36:26 253:010 > <div class="billing-address-form">
+19:37:36 245:104 > aria-expanded="true"
+19:37:37 246:010 > Billing Address
+19:38:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+
+19:39:03 034:000 > c
+19:39:03 034:001 > cl
+19:39:03 034:002 > cla
+19:39:04 034:003 > clas
+19:39:04 034:004 > class
+19:39:05 034:006 > class a
+19:39:05 034:007 > class ad
+19:39:05 034:008 > class add
+19:39:06 034:009 > class addr
+19:39:06 034:010 > class addre
+19:39:06 034:011 > class addres
+19:39:06 034:012 > class addrese
+19:39:07 034:012 > class addreses
+19:39:11 034:006 > class addresesA
+19:39:11 034:007 > class addresesAd
+19:39:11 034:008 > class addresesAdd
+19:39:12 034:009 > class addresesAddr
+19:39:12 034:010 > class addresesAddre
+19:39:12 034:011 > class addresesAddres
+19:39:12 034:012 > class addresesAddress
+19:39:14 034:013 > ()
+19:39:14 034:014 > m
+19:39:14 034:015 > mo
+19:39:14 034:016 > mod
+19:39:15 034:014 > models
+19:39:16 034:020 > .
+19:39:17 034:021 > .m
+19:39:17 034:022 > .mo
+19:39:17 034:023 > .moe
+19:39:17 034:024 > .moel
+19:39:18 034:021 > Model
+19:39:20 034:027 > :
+
+19:39:38 035:002 > n
+19:39:38 035:003 > na
+19:39:38 035:004 > nam
+19:39:38 035:005 > name
+19:39:39 035:007 > name =
+19:39:45 035:006 > name = 1
+19:39:46 035:008 > name = 1 =
+19:39:48 035:010 > name = 1 = m
+19:39:48 035:011 > name = 1 = mo
+19:39:48 035:012 > name = 1 = mod
+19:39:48 035:013 > name = 1 = mode
+19:39:48 035:014 > name = 1 = model
+19:39:48 035:015 > name = 1 = models
+19:39:49 035:016 > name = 1 = models.
+19:39:49 035:017 > name = 1 = models.c
+19:39:50 035:018 > name = 1 = models.ch
+19:39:50 035:019 > name = 1 = models.cha
+19:39:50 035:017 > CharField
+19:39:52 035:026 > ()
+19:39:55 035:027 > m
+19:39:55 035:028 > ma
+19:39:55 035:029 > max
+19:39:57 035:027 > max_length=
+19:40:00 035:038 > 3
+19:40:00 035:039 > 30
+
+19:40:06 036:002 > e
+19:40:06 036:003 > em
+19:40:06 036:004 > ema
+19:40:06 036:005 > emai
+19:40:07 036:006 > email
+19:40:08 036:007 > email1
+19:40:10 036:009 > email1 =
+19:40:26 036:011 > email1 = m
+19:40:26 036:012 > email1 = md
+19:40:26 036:013 > email1 = mdm
+19:40:26 036:014 > email1 = mdmo
+19:40:26 036:015 > email1 = mdmoe
+19:40:26 036:016 > email1 = mdmoel
+19:40:27 036:017 > email1 = mdmoels
+19:40:29 036:011 > email1 = mdmoels m
+19:40:29 036:012 > email1 = mdmoels mo
+19:40:29 036:013 > email1 = mdmoels mod
+19:40:29 036:014 > email1 = mdmoels mode
+19:40:30 036:015 > email1 = mdmoels model
+19:40:30 036:016 > email1 = mdmoels models
+19:40:31 036:017 > email1 = mdmoels models .
+19:40:31 036:018 > email1 = mdmoels models .c
+19:40:31 036:019 > email1 = mdmoels models .ch
+19:40:32 036:020 > email1 = mdmoels models .che
+19:40:32 036:021 > email1 = mdmoels models .cher
+19:40:32 036:022 > email1 = mdmoels models .cher=
+19:40:33 036:021 > email1 = mdmoels models .cher=a
+19:40:33 036:022 > email1 = mdmoels models .cher=ar
+19:40:34 036:020 > email1 = mdmoels models .cher=ara
+19:40:34 036:021 > email1 = mdmoels models .cher=arar
+19:40:35 036:018 > CharField
+19:40:36 036:027 > ()
+19:40:37 036:028 > m
+19:40:37 036:029 > ma
+19:40:37 036:030 > max
+19:40:38 036:028 > max
+19:40:40 036:031 > _
+19:40:41 036:028 > max_length=
+19:40:43 036:039 > 5
+19:40:43 036:040 > 50
+
+19:40:51 037:002 > a
+19:40:52 037:003 > ad
+19:40:52 037:004 > add
+19:40:53 037:005 > add r
+19:40:53 037:006 > add re
+19:40:53 037:007 > add res
+19:40:54 037:002 > Address
+19:40:57 037:002 >  a
+19:40:57 037:003 >  ad
+19:40:58 037:004 >  add
+19:40:58 037:005 >  addr
+19:40:58 037:006 >  addre
+19:40:58 037:007 >  addres
+19:40:58 037:008 >  address
+19:41:00 037:010 >  address =
+19:41:01 037:012 >  address = m
+19:41:01 037:013 >  address = mo
+19:41:01 037:014 >  address = mod
+19:41:01 037:015 >  address = mode
+19:41:01 037:016 >  address = model
+19:41:01 037:017 >  address = models
+19:41:02 037:018 >  address = models.
+19:41:03 037:019 >  address = models.c
+19:41:04 037:020 >  address = models.ch
+19:41:04 037:021 >  address = models.cha
+19:41:04 037:022 >  address = models.char
+19:41:05 037:019 > CharField
+19:41:06 037:028 > ()
+19:41:07 037:029 > m
+19:41:07 037:030 > ma
+19:41:08 037:031 > max
+19:41:09 037:029 > max_length=
+19:41:20 037:040 > 1
+19:41:20 037:041 > 10
+19:41:20 037:042 > 100
+
+19:41:27 038:002 > p
+19:41:27 038:003 > ph
+19:41:28 038:004 > pho
+19:41:28 038:005 > phon
+19:41:28 038:006 > phone
+19:41:29 038:007 > phone=
+19:41:30 038:008 > phone=  =
+19:41:31 038:010 > phone=  = m
+19:41:31 038:011 > phone=  = mo
+19:41:31 038:012 > phone=  = mod
+19:41:31 038:013 > phone=  = mode
+19:41:32 038:014 > phone=  = model
+19:41:32 038:015 > phone=  = models
+19:41:33 038:016 > phone=  = models.
+19:41:33 038:017 > phone=  = models.c
+19:41:34 038:018 > phone=  = models.ch
+19:41:34 038:019 > phone=  = models.cha
+19:41:35 038:019 > phone=  = models.chaa
+19:41:35 038:020 > phone=  = models.chaar
+19:41:36 038:017 > CharField
+19:41:37 038:026 > ()
+19:41:37 038:027 > m
+19:41:37 038:028 > ma
+19:41:38 038:029 > max
+19:41:39 038:027 > max_length=
+19:41:40 038:038 > 1
+19:41:40 038:039 > 13
+
+19:41:50 039:002 > m
+19:41:50 039:003 > me
+19:41:50 039:004 > mes
+19:41:50 039:005 > mess
+19:41:51 039:006 > messa
+19:41:51 039:007 > messag
+19:41:51 039:008 > message
+19:41:52 039:010 > message =
+19:41:53 039:012 > message = m
+19:41:53 039:013 > message = mo
+19:41:53 039:014 > message = mod
+19:41:53 039:015 > message = mode
+19:41:53 039:016 > message = model
+19:41:53 039:017 > message = models
+19:41:54 039:018 > message = models.
+19:41:55 039:019 > message = models.c
+19:41:55 039:020 > message = models.ch
+19:41:55 039:021 > message = models.cha
+19:41:56 039:022 > message = models.char
+19:41:56 039:019 > CharField
+19:41:57 039:028 > ()
+19:41:58 039:029 > m
+19:41:58 039:030 > ma
+19:41:58 039:031 > max
+19:41:59 039:029 > max_length=
+19:42:02 039:040 > 1
+19:42:02 039:041 > 10
+19:42:02 039:042 > 100
+19:42:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\tests.py
+----------------------------------------
+19:42:12 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\admin.py
+----------------------------------------
+
+19:42:14 009:000 > a
+19:42:14 009:001 > ad
+19:42:14 009:002 > adm
+19:42:15 009:003 > admi
+19:42:15 009:004 > admin
+19:42:16 009:005 > admin .
+19:42:16 009:006 > admin .s
+19:42:16 009:007 > admin .si
+19:42:16 009:008 > admin .sit
+19:42:16 009:009 > admin .site
+19:42:17 009:010 > admin .site.
+19:42:18 009:011 > admin .site.r
+19:42:18 009:012 > admin .site.rq
+19:42:18 009:013 > admin .site.rqg
+19:42:19 009:014 > admin .site.rqgi
+19:42:19 009:015 > admin .site.rqgis
+19:42:21 009:012 > admin .site.rqgise
+19:42:22 009:013 > admin .site.rqgiseg
+19:42:22 009:014 > admin .site.rqgisegi
+19:42:22 009:015 > admin .site.rqgisegis
+19:42:23 009:011 > register
+19:42:24 009:019 > ()
+19:42:29 009:020 > a
+19:42:29 009:021 > ad
+19:42:29 009:022 > add
+19:42:30 009:023 > addr
+19:42:30 009:024 > addre
+19:42:30 009:025 > addres
+19:42:30 009:026 > address
+19:42:34 009:020 > Address
+19:42:36 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+19:42:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\admin.py
+----------------------------------------
+19:42:51 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+19:43:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+19:43:36 255:054 > a
+19:43:36 255:055 > an
+19:43:36 255:056 > ane
+19:43:36 255:057 > anem
+19:43:38 255:054 > anemn
+19:43:38 255:055 > anemna
+19:43:38 255:056 > anemnam
+19:43:38 255:057 > anemname
+19:43:39 255:054 > name=""
+19:43:40 255:060 > n
+19:43:40 255:061 > na
+19:43:40 255:062 > nam
+19:43:40 255:063 > namw
+19:43:41 255:063 > namwe
+19:43:42 255:064 > namwe1
+
+19:43:45 256:056 > n
+19:43:45 256:057 > na
+19:43:45 256:058 > nam
+19:43:45 256:059 > name
+19:43:46 256:056 > name=""
+19:43:47 256:062 > e
+19:43:47 256:063 > em
+19:43:47 256:064 > ema
+19:43:47 256:065 > emai
+19:43:47 256:066 > email
+19:43:48 256:067 > email1
+
+19:43:51 257:057 > n
+19:43:51 257:058 > na
+19:43:51 257:059 > nam
+19:43:51 257:060 > name
+19:43:52 257:057 > name=""
+19:43:52 257:063 > a
+19:43:53 257:064 > ad
+19:43:53 257:065 > add
+19:43:53 257:066 > addr
+19:43:54 257:067 > addre
+19:43:54 257:068 > addres
+19:43:54 257:069 > address
+
+19:43:57 258:054 > n
+19:43:57 258:055 > na
+19:43:57 258:056 > nam
+19:43:57 258:057 > name
+19:43:58 258:058 > name =
+19:43:59 258:059 > ""
+19:43:59 258:060 > p
+19:44:00 258:061 > pj
+19:44:01 258:061 > pjh
+19:44:01 258:062 > pjho
+19:44:01 258:063 > pjhon
+19:44:01 258:064 > pjhone
+
+19:44:08 259:096 > n
+19:44:08 259:097 > na
+19:44:08 259:098 > nam
+19:44:08 259:099 > name
+19:44:11 259:096 > name  n
+19:44:11 259:097 > name  na
+19:44:11 259:098 > name  nam
+19:44:11 259:099 > name  name
+19:44:11 259:096 > data-name=""
+19:44:15 259:096 > n
+19:44:15 259:097 > na
+19:44:27 259:032 > nam
+19:44:27 259:033 > name
+19:44:28 259:034 > names
+19:44:28 259:035 > namess
+19:44:28 259:036 > namessa
+19:44:28 259:037 > namessag
+19:44:28 259:038 > namessage
+19:44:45 254:026 > {}
+
+19:44:46 254:027 > %
+19:44:46 254:028 > %%
+19:44:47 254:029 > %% u
+19:44:47 254:030 > %% ur
+19:44:48 254:031 > %% url
+19:44:49 254:033 > %% url '
+19:44:49 254:034 > %% url 'c
+19:44:49 254:035 > %% url 'ch
+19:44:50 254:036 > %% url 'che
+19:44:50 254:037 > %% url 'chek
+19:44:51 254:037 > %% url 'chekc
+19:44:52 254:038 > %% url 'chekck
+19:44:52 254:039 > %% url 'chekcko
+19:44:52 254:040 > %% url 'chekckou
+19:44:52 254:041 > %% url 'chekckout
+19:44:53 254:042 > %% url 'chekckout'
+19:45:00 254:048 > %% url 'chekckout'  m
+19:45:00 254:049 > %% url 'chekckout'  me
+19:45:00 254:050 > %% url 'chekckout'  met
+19:45:00 254:051 > %% url 'chekckout'  meth
+19:45:01 254:052 > %% url 'chekckout'  metho
+19:45:01 254:053 > %% url 'chekckout'  method
+19:45:03 254:054 > %% url 'chekckout'  method =
+19:45:03 254:055 > ""
+19:45:04 254:056 > p
+19:45:04 254:057 > po
+19:45:04 254:058 > pos
+19:45:04 254:059 > post
+19:45:30 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+19:46:05 163:002 > if request.POST:
+    email = request.POST['email']
+    contact = request.POST['contact']
+    message = request.POST['message']
+    name = request.POST['name']
+    subject = request.POST['subject']
+    
+    
+    cid = contact_up.objects.create(
+      
+                                  email = email,
+                                  contact = contact,
+                                  message = message,
+                                  name = name,
+                                  subject = subject
+
+      
+    )
+
+19:46:10 164:004 > n
+19:46:10 164:005 > na
+19:46:10 164:006 > nam
+19:46:10 164:007 > name
+19:46:16 164:008 > name1
+19:46:20 164:026 > name1n
+19:46:20 164:027 > name1na
+19:46:20 164:028 > name1nam
+19:46:20 164:029 > name1name
+19:46:21 164:030 > name1name1
+
+19:46:25 165:028 > e
+19:46:25 165:029 > em
+19:46:26 165:030 > ema
+19:46:26 165:031 > emai
+19:46:26 165:032 > email
+19:46:27 165:033 > email1
+19:46:31 165:004 > email1e
+19:46:31 165:005 > email1em
+19:46:31 165:006 > email1ema
+19:46:32 165:007 > email1emai
+19:46:32 165:008 > email1email
+19:46:32 165:009 > email1email1
+
+19:46:36 166:004 > c
+19:46:37 166:005 > co
+19:46:37 166:006 > con
+19:46:37 166:007 > cont
+19:46:37 166:008 > conta
+19:46:37 166:009 > contac
+19:46:37 166:010 > contact
+19:46:42 166:004 > contactp
+19:46:42 166:005 > contactph
+19:46:42 166:006 > contactpho
+19:46:43 166:007 > contactphot
+19:46:44 166:006 > contactphoto
+19:46:44 166:007 > contactphoton
+19:46:45 166:008 > contactphotone
+19:46:51 166:026 > contactphotonep
+19:46:51 166:027 > contactphotoneph
+19:46:52 166:028 > contactphotonepho
+19:46:52 166:029 > contactphotonephon
+19:46:52 166:030 > contactphotonephone
+19:47:04 166:004 > contactphotonephonea
+19:47:05 166:005 > contactphotonephonead
+19:47:05 166:006 > contactphotonephoneadd
+19:47:05 166:007 > contactphotonephoneaddr
+19:47:05 166:008 > contactphotonephoneaddre
+19:47:06 166:009 > contactphotonephoneaddres
+19:47:06 166:010 > contactphotonephoneaddress
+19:47:11 166:028 > contactphotonephoneaddressa
+19:47:11 166:029 > contactphotonephoneaddressad
+19:47:11 166:030 > contactphotonephoneaddressadd
+19:47:11 166:031 > contactphotonephoneaddressaddr
+19:47:11 166:032 > contactphotonephoneaddressaddre
+19:47:12 166:033 > contactphotonephoneaddressaddres
+19:47:12 166:034 > contactphotonephoneaddressaddress
+
+19:47:15 167:025 > p
+19:47:16 167:026 > ph
+19:47:16 167:027 > pho
+19:47:17 167:028 > phon
+19:47:17 167:029 > phone
+19:47:21 167:004 > phonep
+19:47:21 167:005 > phoneph
+19:47:22 167:006 > phonepho
+19:47:22 167:007 > phonephon
+19:47:22 167:008 > phonephone
+
+19:47:26 168:004 > m
+19:47:26 168:005 > me
+19:47:27 168:006 > mes
+19:47:27 168:007 > mess
+19:47:27 168:008 > messa
+19:47:27 168:009 > messag
+19:47:27 168:010 > message
+19:47:32 168:028 > messagem
+19:47:32 168:029 > messageme
+19:47:32 168:030 > messagemes
+19:47:33 168:031 > messagemess
+19:47:33 168:032 > messagemessa
+19:47:33 168:033 > messagemessag
+19:47:33 168:034 > messagemessage
+
+19:47:39 173:034 > a
+19:47:39 173:035 > an
+19:47:39 173:036 > anm
+19:47:39 173:037 > anme
+19:47:43 173:034 > anmen
+19:47:43 173:035 > anmena
+19:47:43 173:036 > anmenam
+19:47:43 173:037 > anmename
+19:47:44 173:038 > anmename1
+19:47:48 173:042 > anmename1n
+19:47:48 173:043 > anmename1na
+19:47:48 173:044 > anmename1nam
+19:47:48 173:045 > anmename1name
+19:47:49 173:046 > anmename1name1
+19:47:56 173:044 > anmename1name1m
+19:47:56 173:045 > anmename1name1me
+19:47:57 173:046 > anmename1name1me1
+19:47:59 173:047 > anmename1name1me1,
+
+19:48:40 174:034 > e
+19:48:40 174:035 > em
+19:48:40 174:036 > ema
+19:48:41 174:037 > emal
+19:48:42 174:037 > emala
+19:48:42 174:038 > emalai
+19:48:42 174:039 > emalail
+19:48:45 174:037 > emalaili
+19:48:45 174:038 > emalailil
+19:48:46 174:039 > emalailil1
+19:48:52 174:043 > emalailil1e
+19:48:52 174:044 > emalailil1em
+19:48:52 174:045 > emalailil1ema
+19:48:53 174:046 > emalailil1emai
+19:48:53 174:047 > emalailil1email
+19:48:54 174:048 > emalailil1email1
+
+19:48:57 175:041 > \
+19:48:58 175:042 > \\
+19:49:00 175:034 > \\p
+19:49:00 175:035 > \\ph
+19:49:00 175:036 > \\pho
+19:49:01 175:037 > \\phon
+19:49:01 175:038 > \\phonr
+19:49:02 175:038 > \\phonre
+19:49:06 175:042 > \\phonrep
+19:49:07 175:043 > \\phonreph
+19:49:07 175:044 > \\phonrepho
+19:49:07 175:045 > \\phonrephon
+19:49:08 175:046 > \\phonrephone
+19:49:23 175:034 > \\phonrephonea
+19:49:23 175:035 > \\phonrephonead
+19:49:23 175:036 > \\phonrephoneadd
+19:49:23 175:037 > \\phonrephoneaddr
+19:49:24 175:038 > \\phonrephoneaddre
+19:49:24 175:039 > \\phonrephoneaddres
+19:49:24 175:040 > \\phonrephoneaddress
+19:49:28 175:044 > \\phonrephoneaddressa
+19:49:29 175:045 > \\phonrephoneaddressad
+19:49:29 175:046 > \\phonrephoneaddressadd
+19:49:29 175:047 > \\phonrephoneaddressaddr
+19:49:29 175:048 > \\phonrephoneaddressaddre
+19:49:30 175:049 > \\phonrephoneaddressaddres
+19:49:30 175:050 > \\phonrephoneaddressaddress
+
+19:49:40 176:037 > p
+19:49:40 176:038 > ph
+19:49:41 176:039 > pho
+19:49:41 176:040 > phon
+19:49:41 176:041 > phone
+19:49:45 176:034 > phonep
+19:49:45 176:035 > phoneph
+19:49:45 176:036 > phonepho
+19:49:45 176:037 > phonephon
+19:49:45 176:038 > phonephonr
+
+19:49:51 177:034 > m
+19:49:51 177:035 > me
+19:49:51 177:036 > mes
+19:49:51 177:037 > mess
+19:49:51 177:038 > messa
+19:49:51 177:039 > messag
+19:49:52 177:040 > message
+19:49:52 177:041 > message0
+19:49:58 177:044 > message0m
+19:49:58 177:045 > message0me
+19:49:58 177:046 > message0mes
+19:49:58 177:047 > message0mess
+19:49:58 177:048 > message0messa
+19:49:59 177:049 > message0messag
+19:49:59 177:050 > message0message
+
+19:50:07 171:004 > k
+
+19:51:07 217:000 > e
+19:51:07 217:001 > el
+19:51:07 217:002 > els
+19:51:08 217:003 > else
+19:51:09 217:004 > else:
+19:52:11 004:000 > "security.workspace.trust.untrustedFiles": "open",
+19:52:13 026:000 > "workbench.productIconTheme": "icons-carbon",
+    "window.zoomLevel": -1
+19:52:46 212:006 > ''
+
+19:52:46 212:007 > k
+19:52:47 212:008 > ki
+19:52:47 212:009 > kid
+19:52:49 212:012 > kid :
+19:52:50 212:014 > kid : k
+19:52:50 212:015 > kid : ki
+19:52:50 212:016 > kid : kid
+
+19:53:07 211:027 > ,
+
+19:53:49 182:001 > z
+
+19:53:53 171:004 > z
+19:53:53 171:005 > zz
+19:53:54 171:006 > zzz
+19:53:54 171:007 > zzzz
+19:53:54 171:008 > zzzzz
+19:53:54 171:009 > zzzzzz
+19:53:54 171:010 > zzzzzzz
+19:53:55 171:004 > zzzzzzzc
+19:54:23 171:004 > zzzzzzzck
+19:55:10 171:004 > zzzzzzzck              c
+19:55:11 177:044 > subject
+
+19:55:11 177:041 > 0
+19:55:11 177:034 > subject
+19:55:12 176:037 > nae
+
+19:55:12 176:039 > m
+19:55:12 175:044 > phone
+19:55:13 175:034 > phone
+19:55:17 175:034 > address
+19:55:18 175:044 > address
+19:55:18 176:037 > phone
+19:55:18 176:034 > phonr
+19:55:19 177:034 > message0
+
+19:55:20 177:044 > m
+19:55:20 177:045 > essage
+
+19:55:26 171:004 > k
+19:55:29 171:004 > kp
+
+19:55:35 181:004 > c
+19:55:35 181:005 > co
+19:55:35 181:006 > con
+19:55:35 181:007 > cont
+19:55:36 181:008 > conte
+19:55:38 181:006 > conten
+19:55:39 181:008 > conten =
+19:55:41 181:010 > {}
+19:55:42 182:006 > ''
+
+19:55:43 182:007 > k
+19:55:43 182:008 > ki
+19:55:44 182:009 > kid
+19:55:46 182:012 > kid :
+19:55:47 182:014 > kid : k
+19:55:47 182:015 > kid : ki
+19:55:48 182:016 > kid : kid
+19:55:52 182:014 > kid : kidp
+19:55:56 182:007 > kid : kidpp
+19:56:46 000:000 > {
+   "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+   }
+}
+19:56:46 003:000 > },
+   "python.formatting.provider": "none"
+19:57:09 026:000 > "workbench.productIconTheme": "icons-carbon"
+19:57:09 026:000 > "workbench.productIconTheme": "icons-carbon",
+    "window.zoomLevel": 1
+19:57:11 026:000 > "workbench.productIconTheme": "icons-carbon"
+19:57:15 026:000 > "workbench.productIconTheme": "icons-carbon",
+    "window.zoomLevel": 1
+
+19:57:16 027:024 > 2
+19:57:17 027:024 > 23
+19:57:18 027:024 > 234
+19:57:19 027:024 > 2345
+19:57:19 027:024 > 23456
+19:57:20 027:024 > 234567
+19:57:21 027:024 > 2345676
+19:57:21 027:024 > 23456765
+19:57:21 027:024 > 234567654
+19:57:22 027:024 > 2345676543
+19:57:22 027:024 > 23456765432
+19:57:23 027:024 > 234567654321
+
+19:58:18 184:000 > r
+19:58:18 184:001 > re
+19:58:18 184:002 > rer
+19:58:18 184:003 > reru
+19:58:18 184:004 > rerut
+19:58:19 184:005 > rerutn
+19:58:21 184:002 > rerutnt
+19:58:21 184:003 > rerutntu
+19:58:21 184:004 > rerutntur
+19:58:21 184:005 > rerutnturn
+19:58:22 184:007 > rerutnturn r
+19:58:22 184:008 > rerutnturn re
+19:58:22 184:009 > rerutnturn ren
+19:58:22 184:010 > rerutnturn rend
+19:58:23 184:011 > rerutnturn rende
+19:58:23 184:012 > rerutnturn render
+19:58:32 184:002 > rutn
+
+19:58:44 182:007 > k
+19:58:44 182:014 > kk
+19:58:46 181:006 > nte
+
+19:58:46 171:004 > k
+19:58:47 171:004 > kc
+19:58:47 177:044 > subject
+
+19:58:47 177:041 > 0
+19:58:48 177:034 > subject
+19:58:48 176:037 > nae
+
+19:58:48 176:039 > m
+19:58:49 175:044 > phone
+19:58:49 175:034 > phone
+19:58:49 176:034 > name
+19:58:50 175:042 > message
+
+19:58:50 175:038 > r
+19:58:50 175:034 > message\\
+19:58:51 174:043 > contact
+19:58:51 174:037 > ail
+
+19:58:51 174:037 > l
+19:58:52 174:034 > contact
+19:58:52 173:044 > me1,
+19:58:53 173:042 > email
+19:58:54 173:034 > an
+19:58:54 173:036 > me
+19:58:54 173:034 > email
+19:58:54 168:028 > subject
+19:58:55 168:004 > subject
+19:58:55 167:004 > name
+19:58:55 167:025 > name
+19:58:55 166:028 > phone
+19:58:55 166:004 > phone
+19:58:55 166:026 > message
+19:58:55 166:006 > ot
+19:58:55 166:004 > contact
+19:58:56 166:004 > message
+19:58:56 165:004 > contact
+19:58:56 165:028 > contact
+19:58:56 164:026 > email
+19:58:56 164:004 > email
+
+20:00:54 163:002 > i
+20:00:54 163:003 > if
+20:00:55 163:005 > if r
+20:00:55 163:006 > if re
+20:00:55 163:007 > if req
+20:00:57 163:005 > request
+20:00:57 163:012 > .
+20:00:58 163:013 > .P
+20:00:58 163:014 > .PO
+20:00:59 163:015 > .POS
+20:00:59 163:016 > .POST
+20:01:05 163:017 > .POST:
+
+20:01:07 164:004 > n
+20:01:07 164:005 > na
+20:01:07 164:006 > nam
+20:01:07 164:007 > name
+20:01:08 164:008 > name1
+20:01:09 164:010 > name1 =
+20:01:11 164:012 > name1 = n
+20:01:11 164:013 > name1 = na
+20:01:11 164:014 > name1 = nam
+20:01:11 164:015 > name1 = name
+20:01:12 164:012 > name1 = namer
+20:01:12 164:013 > name1 = namere
+20:01:13 164:014 > name1 = namereq
+20:01:13 164:012 > request
+20:01:14 164:019 > .
+20:01:15 164:020 > .P
+20:01:15 164:021 > .PS
+20:01:17 164:021 > .PSO
+20:01:17 164:022 > .PSOO
+20:01:17 164:023 > .PSOOS
+20:01:17 164:024 > .PSOOST
+20:01:19 164:022 > .PSOOSTS
+20:01:20 164:023 > .PSOOSTST
+20:01:21 164:024 > []
+20:01:21 164:025 > ''
+20:01:22 164:026 > n
+20:01:22 164:027 > na
+20:01:22 164:028 > nam
+20:01:23 164:029 > name
+20:01:24 164:030 > name1

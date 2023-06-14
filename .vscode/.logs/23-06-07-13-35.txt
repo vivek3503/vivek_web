@@ -1,0 +1,14 @@
+23-06-07 13:35 Session started
+----------------------------------------
+13:35:51 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+13:47:29 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:49:17 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+13:50:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+13:50:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+13:50:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\mynewproject\urls.py
+----------------------------------------

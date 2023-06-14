@@ -1,0 +1,16 @@
+23-06-08 19:10 Session started
+----------------------------------------
+19:10:14 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+19:10:35 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+19:10:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+19:11:23 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+19:11:24 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+19:11:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+19:11:28 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------

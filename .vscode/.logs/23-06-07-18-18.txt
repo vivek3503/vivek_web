@@ -1,0 +1,4 @@
+23-06-07 18:18 Session started
+----------------------------------------
+18:18:35 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------

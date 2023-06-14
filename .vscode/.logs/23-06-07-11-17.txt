@@ -1,0 +1,1175 @@
+23-06-07 11:17 Session started
+----------------------------------------
+11:17:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:17:54 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+11:17:55 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\register.html
+----------------------------------------
+11:18:01 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+11:18:07 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:18:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:20:07 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:20:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:21:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+
+11:22:08 078:015 > b
+11:22:08 078:016 > bt
+11:22:09 078:017 > btn
+11:22:10 078:019 > btn b
+11:22:10 078:020 > btn bt
+11:22:10 078:021 > btn btn
+11:22:11 078:023 > btn btn p
+11:22:11 078:024 > btn btn pr
+11:22:12 078:025 > btn btn pri
+11:22:13 078:026 > btn btn prim
+11:22:13 078:027 > btn btn prima
+11:22:16 078:022 > btn btn prima-
+11:22:19 078:023 > btn btn prima-p
+11:22:19 078:024 > btn btn prima-pr
+11:22:19 078:025 > btn btn prima-pri
+11:22:19 078:026 > btn btn prima-prim
+11:22:19 078:027 > btn btn prima-prima
+11:22:20 078:028 > btn btn prima-primar
+11:22:20 078:029 > btn btn prima-primary
+11:22:25 078:015 > btn btn prima-primaryc
+11:22:25 078:016 > btn btn prima-primarycl
+11:22:25 078:017 > btn btn prima-primarycla
+11:22:25 078:018 > btn btn prima-primaryclas
+11:22:25 078:019 > btn btn prima-primaryclass
+11:22:26 078:020 > btn btn prima-primaryclass=
+
+11:22:32 079:015 > c
+11:22:32 079:016 > cl
+11:22:33 079:017 > cla
+11:22:33 079:018 > clas
+11:22:33 079:019 > class
+11:22:36 079:015 > class c
+11:22:36 079:016 > class cl
+11:22:36 079:017 > class cla
+11:22:36 079:018 > class clas
+11:22:37 079:015 > class
+11:22:38 079:021 >  =
+11:23:03 079:021 >  =   =
+11:23:04 079:023 >  =   = b
+11:23:05 079:024 >  =   = bt
+11:23:05 079:025 >  =   = btn
+11:23:05 079:027 >  =   = btn b
+11:23:05 079:028 >  =   = btn bt
+11:23:05 079:029 >  =   = btn btn
+
+11:23:18 078:022 > "
+11:23:24 078:038 > ""
+
+11:23:59 057:028 > 1
+11:23:59 057:029 > 12
+11:24:13 057:028 > 125
+
+11:24:27 078:029 > n
+11:24:31 078:030 > n-
+11:24:33 078:031 > n-o
+11:24:33 078:032 > n-ou
+11:24:33 078:033 > n-out
+11:24:33 078:034 > n-outl
+11:24:34 078:035 > n-outli
+11:24:34 078:036 > n-outlin
+11:24:34 078:037 > n-outline
+11:24:36 078:038 > n-outline-
+11:24:36 078:039 > n-outline-s
+11:24:37 078:040 > n-outline-su
+11:24:37 078:041 > n-outline-suc
+11:24:37 078:042 > n-outline-succ
+11:24:37 078:043 > n-outline-succe
+11:24:37 078:044 > n-outline-succes
+11:24:39 078:045 > n-outline-success
+
+11:24:44 079:015 > c
+11:24:44 079:016 > cl
+11:24:44 079:017 > cla
+11:24:44 079:018 > clas
+11:24:45 079:019 > class
+11:25:03 079:020 > = "btn btn-outline-success"
+
+11:26:14 070:072 > f
+11:26:14 070:073 > fa
+11:26:15 070:074 > fas
+11:26:32 070:072 > fasa
+11:26:32 070:073 > fasal
+11:26:36 070:074 > fasali
+11:26:42 070:073 > fasalia
+11:26:42 070:074 > fasalial
+11:27:07 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:27:50 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+11:28:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:35:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+11:35:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+11:41:08 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+11:41:15 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+11:52:28 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:52:51 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+11:52:59 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+11:59:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+11:59:26 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:00:11 168:045 > {}
+
+12:00:16 168:046 > %
+12:00:16 168:047 > %%
+12:00:21 168:048 > %% r
+12:00:22 168:049 > %% re
+12:00:24 168:048 > %% rer
+12:00:24 168:049 > %% rere
+12:00:25 168:050 > %% rerev
+12:00:26 168:051 > %% rerevo
+12:00:28 168:048 > %% rerevor
+12:00:29 168:049 > %% rerevore
+12:00:30 168:050 > %% rerevorev
+12:00:30 168:051 > %% rerevorevo
+12:00:33 168:050 > %% rerevorevom
+12:00:33 168:051 > %% rerevorevomo
+12:00:33 168:052 > %% rerevorevomov
+12:00:34 168:053 > %% rerevorevomove
+12:00:37 168:054 > %% rerevorevomove /
+12:00:45 168:045 > %% rerevorevomove /r
+12:00:45 168:046 > %% rerevorevomove /re
+12:00:47 168:045 > {}
+12:00:49 168:046 > %
+12:00:50 168:047 > %%
+12:00:55 168:048 > %%  u
+12:00:55 168:049 > %%  ur
+12:00:55 168:050 > %%  url
+12:00:57 168:052 > %%  url r
+12:00:57 168:053 > %%  url re
+12:00:57 168:054 > %%  url rem
+12:00:58 168:055 > %%  url remo
+12:01:00 168:052 > %%  url remo'
+12:01:01 168:053 > %%  url remo'r
+12:01:01 168:054 > %%  url remo're
+12:01:02 168:055 > %%  url remo'rem
+12:01:03 168:056 > %%  url remo'remo
+12:01:03 168:057 > %%  url remo'remov
+12:01:03 168:058 > %%  url remo'remove
+12:01:05 168:059 > %%  url remo'remove '
+12:01:07 168:061 > %%  url remo'remove ' i
+12:01:07 168:062 > %%  url remo'remove ' i.
+12:01:09 168:063 > %%  url remo'remove ' i.i
+12:01:09 168:064 > %%  url remo'remove ' i.id
+12:01:13 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+
+12:01:16 035:001 > p
+12:01:17 035:002 > pa
+12:01:18 035:003 > pat
+12:01:18 035:004 > path
+12:01:19 035:001 > path
+12:01:20 035:005 > ()
+12:01:25 035:006 > ''
+12:01:26 035:007 > r
+12:01:26 035:008 > re
+12:01:27 035:009 > rem
+12:01:28 035:010 > remo
+12:01:28 035:011 > remov
+12:01:28 035:012 > remove
+12:01:44 035:013 > remove<
+12:01:47 035:014 > remove<s
+12:01:47 035:015 > remove<st
+12:01:47 035:016 > remove<str
+12:01:49 035:017 > remove<str:
+12:01:51 035:018 > remove<str:i
+12:01:52 035:019 > remove<str:id
+12:02:01 035:020 > remove<str:id>
+12:02:10 035:013 > remove<str:id>/
+12:02:21 035:023 > remove<str:id>/,
+12:04:13 035:024 > remove<str:id>/,v
+12:04:13 035:025 > remove<str:id>/,vi
+12:04:19 035:024 > views
+12:04:21 035:029 > .
+12:04:26 035:030 > .r
+12:04:26 035:031 > .re
+12:04:28 035:032 > .rem
+12:04:28 035:033 > .remo
+12:04:29 035:034 > .remov
+12:04:29 035:035 > .remove
+12:04:30 035:036 > .remove,
+12:04:33 035:037 > ''
+12:04:35 035:038 > v
+12:04:36 035:039 > ve
+12:04:36 035:040 > vem
+12:04:37 035:041 > vemo
+12:04:38 035:042 > vemov
+12:04:40 035:038 > vemovr
+12:04:40 035:039 > vemovre
+12:04:41 035:040 > vemovrem
+12:04:41 035:041 > vemovremo
+12:04:42 035:042 > vemovremov
+12:04:42 035:043 > vemovremove
+12:04:46 035:037 > vemovremoven
+12:04:46 035:038 > vemovremovena
+12:04:47 035:039 > vemovremovenam
+12:04:47 035:040 > vemovremovename
+12:04:48 035:041 > vemovremovename=
+12:04:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:04:57 220:000 > d
+12:04:57 220:001 > de
+12:04:57 220:002 > def
+12:04:59 220:004 > def r
+12:04:59 220:005 > def re
+12:04:59 220:006 > def rem
+12:05:00 220:007 > def remo
+12:05:00 220:008 > def remov
+12:05:00 220:009 > def remove
+12:05:02 220:010 > ()
+12:05:04 220:011 > r
+12:05:04 220:012 > re
+12:05:06 220:013 > rem
+12:05:06 220:014 > remo
+12:05:09 220:014 > remoo
+12:05:09 220:015 > remoov
+12:05:10 220:016 > remoove
+12:05:12 220:017 > remoove,
+12:05:13 220:018 > remoove,i
+12:05:13 220:019 > remoove,id
+12:05:15 220:018 > def is_valid(self):
+    valid = super().is_valid()
+    if not valid:
+        return False
+    # Custom Logic
+    return True
+12:05:18 220:018 > id)
+12:05:20 220:021 > :
+12:05:43 221:002 > if  'email' in request.session:
+    
+    uid = User.objects.get(email= request.session['email'])
+
+12:05:49 224:004 > d
+12:05:49 224:005 > di
+12:05:51 224:006 > did
+12:05:52 224:008 > did =
+12:06:01 224:010 > did = A
+12:06:06 224:011 > did = Ad
+12:06:06 224:012 > did = Add
+12:06:08 224:010 > Add_to_cart
+12:06:10 224:021 > .
+12:06:11 224:022 > .o
+12:06:13 224:022 > objects
+12:06:14 224:029 > .
+12:06:28 224:030 > .g
+12:06:29 224:031 > .ge
+12:06:30 224:032 > .get
+12:06:31 224:030 > get
+12:06:31 224:033 > ()
+12:06:34 224:034 > i
+12:06:34 224:035 > id
+12:06:35 224:036 > id=
+12:06:35 224:037 > id=i
+12:06:35 224:038 > id=id
+12:06:38 224:037 > def is_valid(self):
+        valid = super().is_valid()
+        if not valid:
+            return False
+        # Custom Logic
+        return True
+12:06:40 224:037 > id)
+
+12:06:47 226:004 > d
+12:06:47 226:005 > di
+12:06:48 226:006 > did
+12:06:49 226:007 > did.
+12:06:49 226:008 > did.d
+12:06:50 226:009 > did.de
+12:06:50 226:010 > did.del
+12:06:51 226:008 > delete
+12:06:52 226:014 > ()
+
+12:06:55 227:004 > r
+12:06:56 227:005 > re
+12:06:57 227:004 > return
+12:06:58 227:011 >  r
+12:06:58 227:012 >  re
+12:06:58 227:013 >  ren
+12:07:00 227:011 > render
+12:07:03 227:011 > r
+12:07:04 227:012 > re
+12:07:07 227:011 > redirect
+12:07:09 227:019 > ()
+12:07:10 227:020 > ''
+12:07:12 227:021 > c
+12:07:12 227:022 > ca
+12:07:12 227:023 > car
+12:07:12 227:024 > cart
+12:08:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+12:08:59 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:10:25 179:017 > d class="quantity">
+                    <div class="quantity buttons-add-minus">
+                      <a href="{% url 'cart_minus' i.id %}" class="btn btn-primary">-</a>
+                      
+                      <label for="" style="margin: 10px;">{{i.quantuty}}</label>
+                      
+                      <a href="{% url 'cart_plus' i.id %}" class="btn btn-primary">+</a>
+                                                                                            
+                    </div>
+                  </td>
+
+12:10:28 179:008 > <
+12:10:29 179:009 > <t
+12:11:16 172:009 > <td class="quantity">
+									<div class="quantity buttons-add-minus">
+										<a href="{% url 'cart_minus' i.id %}" class="btn btn-primary">-</a>
+										
+										<label for="" style="margin: 10px;">{{i.quantuty}}</label>
+										
+										<a href="{% url 'cart_plus' i.id %}" class="btn btn-primary">+</a>
+																																													
+									</div>
+							 </td>
+
+12:11:47 176:020 > #
+
+12:11:59 180:020 > #
+12:12:54 180:020 > {% url 'cart_plus' i.id %}
+12:12:55 176:020 > {% url 'cart_minus' i.id %}
+12:13:07 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+12:13:27 036:001 > path('remove/<str:id>',views.remove,name='remove')
+12:13:28 037:001 > path('remove/<str:id>',views.remove,name='remove')
+12:13:33 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:13:38 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+12:13:43 036:007 > cart_minus
+12:13:46 036:034 > cart_minus
+12:13:49 036:051 > cart_minus
+12:13:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:13:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+12:14:02 037:007 > cart_plus
+12:14:04 037:033 > cart_plus
+12:14:07 037:049 > cart_plus
+
+12:14:25 036:063 > ,
+
+12:14:28 035:051 > ,
+12:14:47 035:051 > ,,
+12:14:52 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:14:56 227:000 > cart_plus
+
+12:14:59 227:005 > m
+12:14:59 227:006 > mi
+12:15:00 227:007 > min
+12:15:01 227:008 > minu
+12:15:01 227:009 > minus
+12:15:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:15:11 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:15:23 227:000 > minusd
+12:15:23 227:001 > minusde
+12:15:23 227:002 > minusdef
+12:15:28 227:014 > ()
+12:15:30 227:015 > r
+12:15:30 227:016 > re
+12:15:30 227:017 > req
+12:15:31 227:018 > requ
+12:15:31 227:019 > reque
+12:15:31 227:020 > reques
+12:15:31 227:021 > request
+12:15:33 227:022 > request,
+12:15:34 227:023 > request,i
+12:15:34 227:024 > request,id
+12:15:36 227:026 > request,id:
+
+12:15:55 228:002 > d
+12:15:57 228:002 > dc
+12:15:57 228:003 > dci
+12:15:57 228:004 > dcid
+12:15:59 228:006 > dcid =
+
+12:16:01 226:002 > A
+12:16:03 226:002 > def cart
+
+12:16:10 228:008 > A
+12:16:11 228:009 > Ad
+12:16:12 228:010 > Add
+12:16:14 228:008 > Add_to_cart
+12:16:16 228:019 > .
+12:16:17 228:020 > .o
+12:16:18 228:020 > objects
+12:16:19 228:027 > .
+12:16:21 228:028 > .g
+12:16:21 228:029 > .ge
+12:16:21 228:030 > .get
+12:16:22 228:028 > get
+12:16:23 228:031 > ()
+12:16:24 228:032 > i
+12:16:25 228:033 > id
+12:16:25 228:034 > id=
+12:16:26 228:035 > id=i
+12:16:26 228:036 > id=id
+12:16:29 228:035 > def is_valid(self):
+      valid = super().is_valid()
+      if not valid:
+          return False
+      # Custom Logic
+      return True
+12:16:31 228:035 > id)
+
+12:16:47 230:002 > i
+12:16:47 230:003 > if
+12:16:52 230:005 > if c
+12:16:52 230:006 > if ci
+12:16:52 230:007 > if cid
+12:16:54 230:008 > if cid.
+12:16:57 230:009 > if cid.q
+12:16:57 230:010 > if cid.qu
+12:16:58 230:009 > quantity
+12:17:04 230:018 >  =
+12:17:07 230:020 >  = c
+12:17:07 230:021 >  = ci
+12:17:08 230:022 >  = cid
+12:17:09 230:023 >  = cid.
+12:17:11 230:024 >  = cid.q
+12:17:13 230:025 >  = cid.qu
+12:17:22 230:018 >  = cid.qu=
+12:17:22 230:019 >  = cid.qu==
+12:17:36 230:005 >  = cid.qu== c
+12:17:37 230:006 >  = cid.qu== ci
+12:17:37 230:007 >  = cid.qu== cid
+12:17:38 230:008 >  = cid.qu== cid:
+
+12:17:41 231:004 > c
+12:17:41 231:005 > ci
+12:17:41 231:006 > cid
+12:17:42 231:007 > cid.
+12:17:43 231:008 > cid.q
+12:17:43 231:009 > cid.qu
+12:17:44 231:008 > quantity
+12:17:45 231:017 >  =
+12:17:46 231:019 >  = c
+12:17:46 231:020 >  = ci
+12:17:47 231:021 >  = cid
+12:17:48 231:022 >  = cid.
+12:17:49 231:023 >  = cid.q
+12:17:49 231:024 >  = cid.qu
+12:17:50 231:023 > quantity
+12:17:52 231:031 > +
+12:17:56 231:031 > +-
+12:17:57 231:032 > +-1
+12:17:59 231:033 > +-1:
+
+12:18:01 232:004 > c
+12:18:01 232:005 > ci
+12:18:02 232:006 > cid
+12:18:03 232:007 > cid.
+12:18:03 232:008 > cid.d
+12:18:03 232:009 > cid.da
+12:18:03 232:010 > cid.das
+12:18:04 232:008 > cid.dass
+12:18:05 232:009 > cid.dassa
+12:18:06 232:008 > save
+12:18:10 232:012 > ()
+
+12:18:28 235:000 > d
+12:18:28 235:001 > de
+12:18:28 235:002 > def
+
+12:18:34 234:004 > r
+12:18:34 234:005 > re
+12:18:35 234:006 > ret
+12:18:35 234:007 > retu
+12:18:36 234:004 > return
+12:18:37 234:011 >  r
+12:18:37 234:012 >  re
+12:18:40 234:011 > redirect
+12:18:43 234:019 > ()
+12:18:44 234:020 > ''
+12:18:44 234:021 > c
+12:18:45 234:022 > ca
+12:18:45 234:023 > car
+12:18:45 234:024 > cart
+
+12:18:51 236:004 > c
+12:18:52 236:005 > ca
+12:18:52 236:006 > car
+12:18:52 236:007 > care
+12:18:56 236:004 > carec
+12:18:56 236:005 > careca
+12:18:57 236:006 > carecar
+12:18:57 236:007 > carecart
+12:18:59 236:008 > carecart_
+12:19:01 236:009 > carecart_m
+12:19:01 236:010 > carecart_mi
+12:19:02 236:011 > carecart_min
+12:19:04 236:009 > carecart_minp
+12:19:04 236:010 > carecart_minpu
+12:19:05 236:011 > carecart_minpul
+12:19:06 236:012 > carecart_minpuls
+12:19:14 236:010 > carecart_minpulse
+12:19:15 236:010 > carecart_minpulsel
+12:19:16 236:011 > carecart_minpulselu
+12:19:16 236:012 > carecart_minpulselus
+12:19:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+12:19:22 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:19:24 236:013 > ()
+12:19:25 236:014 > r
+12:19:25 236:015 > re
+12:19:26 236:016 > req
+12:19:26 236:017 > requ
+12:19:27 236:018 > reque
+12:19:28 236:019 > reques
+12:19:28 236:020 > request
+12:19:29 236:021 > request,
+12:19:31 236:022 > request,i
+12:19:31 236:023 > request,id
+12:19:34 236:025 > request,id:
+
+12:19:41 238:002 > p
+12:19:42 238:003 > pi
+12:19:43 238:004 > pid
+12:19:48 238:006 > pid =
+12:19:50 238:008 > pid = A
+12:19:51 238:009 > pid = Ad
+12:19:53 238:008 > Add_to_cart
+12:19:55 238:019 > .
+12:19:55 238:020 > .o
+12:19:56 238:020 > objects
+12:19:57 238:027 > .
+12:19:57 238:028 > .g
+12:19:58 238:029 > .ge
+12:19:58 238:030 > .get
+12:19:59 238:028 > get
+12:20:00 238:031 > ()
+12:20:01 238:032 > i
+12:20:01 238:033 > id
+12:20:02 238:034 > id=
+12:20:02 238:035 > id=i
+12:20:02 238:036 > id=id
+12:20:03 238:035 > def is_valid(self):
+      valid = super().is_valid()
+      if not valid:
+          return False
+      # Custom Logic
+      return True
+12:20:05 238:035 > id)
+
+12:20:11 240:002 > i
+12:20:11 240:003 > if
+12:20:12 240:005 > if p
+12:20:13 240:006 > if pi
+12:20:13 240:007 > if pif
+12:20:13 240:007 > if pifd
+12:20:14 240:008 > if pifd:
+
+12:20:17 241:004 > p
+12:20:18 241:005 > pi
+12:20:18 241:006 > pid
+12:20:19 241:007 > pid.
+12:20:23 241:008 > pid.A
+12:20:28 241:008 > pid.AQ
+12:20:28 241:008 > pid.AQq
+12:20:30 241:008 > quantity
+12:20:31 241:017 >  =
+12:20:35 241:019 >  = p
+12:20:35 241:020 >  = pi
+12:20:35 241:021 >  = pic
+12:20:36 241:021 >  = picd
+12:20:37 241:022 >  = picd.
+12:20:38 241:023 >  = picd.q
+12:20:38 241:023 > quantity
+12:20:40 241:031 > +
+12:20:41 241:032 > +1
+
+12:20:43 242:004 > p
+12:20:43 242:005 > pi
+12:20:43 242:006 > pid
+12:20:44 242:007 > pid.
+12:20:45 242:008 > pid.s
+12:20:45 242:009 > pid.sa
+12:20:46 242:008 > save
+12:20:47 242:012 > ()
+
+12:20:49 244:004 > r
+12:20:50 244:005 > re
+12:20:52 244:006 > ret
+12:20:52 244:007 > retu
+12:20:53 244:004 > return
+12:20:55 244:011 >  r
+12:20:55 244:012 >  re
+12:20:57 244:011 > redirect
+12:21:00 244:020 > ()
+12:21:01 244:021 > c
+12:21:03 244:021 > ''
+12:21:04 244:022 > c
+12:21:04 244:023 > cr
+12:21:04 244:024 > cre
+12:21:05 244:025 > crea
+12:21:06 244:024 > creaa
+12:21:07 244:025 > creaar
+12:21:07 244:026 > creaart
+12:21:14 244:022 > creaartc
+12:21:36 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+12:21:52 178:051 > q
+12:21:52 178:052 > qu
+12:21:56 178:051 > quantity
+12:22:37 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:22:42 240:005 > c
+
+12:22:52 238:002 > c
+
+12:22:55 241:004 > c
+
+12:22:57 242:004 > c
+
+12:23:00 241:019 > c
+
+12:25:04 231:002 > i
+12:25:05 231:003 > if
+12:25:15 231:005 > if c
+12:25:16 231:006 > if ci
+12:25:16 231:007 > if cid
+12:25:17 231:008 > if cid.
+12:25:18 231:009 > if cid.q
+12:25:19 231:010 > if cid.qu
+12:25:19 231:009 > quantity
+12:25:27 231:018 >  =
+12:25:27 231:019 >  ==
+12:25:33 231:021 >  == 1
+12:25:35 231:022 >  == 1:
+12:25:54 231:021 >  == 1:0
+
+12:26:07 232:004 > c
+12:26:07 232:005 > ci
+12:26:08 232:006 > cid
+12:26:09 232:007 > cid.
+12:26:09 232:008 > cid.d
+12:26:10 232:009 > cid.de
+12:26:11 232:008 > delete
+12:26:14 232:014 > ()
+
+12:26:22 233:004 > r
+12:26:22 233:005 > re
+12:26:22 233:006 > ret
+12:26:22 233:007 > retu
+12:26:23 233:004 > return
+12:26:24 233:011 >  r
+12:26:24 233:012 >  re
+12:26:26 233:011 > redirect
+12:26:27 233:020 > ()
+12:26:29 233:021 > ''
+12:26:30 233:022 > c
+12:26:30 233:023 > ca
+12:26:30 233:024 > caa
+12:26:31 233:024 > caar
+12:26:32 233:025 > caart
+
+12:26:38 234:002 > e
+12:26:38 234:003 > el
+12:26:38 234:004 > els
+12:26:38 234:005 > else
+12:26:39 234:006 > else:
+
+12:28:11 231:021 > 1
+12:28:45 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:31:00 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:33:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+12:34:01 178:049 > p
+12:34:01 178:050 > pi
+12:34:02 178:051 > pid
+12:36:42 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:37:00 238:006 > c
+12:37:00 238:007 > ci
+12:37:00 238:008 > cid
+12:37:04 238:009 > cid .
+12:37:08 238:010 > cid .t
+12:37:08 238:011 > cid .to
+12:37:10 238:010 > total_price
+12:37:11 238:022 >  =
+12:37:14 238:024 >  = c
+12:37:14 238:025 >  = ci
+12:37:14 238:026 >  = cid
+12:37:15 238:027 >  = cid.
+12:37:16 238:028 >  = cid.q
+12:37:16 238:029 >  = cid.qu
+12:37:17 238:028 > quantity
+12:37:18 238:036 > *
+12:37:20 238:037 > *c
+12:37:20 238:038 > *ci
+12:37:20 238:039 > *cid
+12:37:21 238:040 > *cid.
+12:37:26 238:041 > *cid.p
+12:37:26 238:042 > *cid.pr
+12:37:26 238:043 > *cid.pri
+12:37:27 238:041 > price
+
+12:37:39 248:004 > c
+12:37:39 248:005 > ci
+12:37:39 248:006 > cid
+12:37:40 248:007 > cid.
+12:37:42 248:008 > cid.q
+12:37:44 248:008 > cid.qt
+12:37:44 248:009 > cid.qto
+12:37:45 248:008 > total_price
+12:37:47 248:020 >  =
+12:37:48 248:022 >  = c
+12:37:48 248:023 >  = ci
+12:37:48 248:024 >  = cid
+12:37:49 248:025 >  = cid.
+12:37:51 248:026 >  = cid.q
+12:37:51 248:027 >  = cid.qu
+12:37:52 248:026 > quantity
+12:37:53 248:034 > .
+12:37:56 248:035 > . *
+12:37:57 248:037 > . * c
+12:37:58 248:038 > . * ci
+12:37:58 248:039 > . * cid
+12:37:59 248:040 > . * cid.
+12:38:02 248:041 > . * cid.p
+12:38:02 248:042 > . * cid.pr
+12:38:03 248:043 > . * cid.pri
+12:38:04 248:041 > price
+12:38:18 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+12:38:22 178:049 > i
+
+12:38:46 184:039 > t
+12:38:46 184:040 > to
+12:38:48 184:041 > tot
+12:38:48 184:042 > tota
+12:38:50 184:043 > total
+12:38:51 184:044 > total_
+12:38:52 184:045 > total_p
+12:38:52 184:046 > total_pr
+12:38:53 184:047 > total_pri
+12:38:53 184:048 > total_pric
+12:38:54 184:049 > total_price
+
+12:43:32 216:029 > =
+12:43:34 216:029 > =+
+12:43:38 216:031 > =+ =
+12:43:40 216:033 > =+ = c
+12:43:40 216:034 > =+ = ci
+12:43:40 216:035 > =+ = cid
+12:43:40 216:036 > =+ = cide
+12:43:41 216:036 > =+ = cide.
+12:43:42 216:037 > =+ = cide.t
+12:43:42 216:038 > =+ = cide.to
+12:43:42 216:039 > =+ = cide.tot
+12:43:42 216:040 > =+ = cide.toto
+12:43:45 216:040 > =+ = cide.totot
+12:43:45 216:040 > =+ = cide.totota
+12:43:46 216:041 > =+ = cide.tototal
+12:43:47 216:042 > =+ = cide.tototal_
+12:43:48 216:043 > =+ = cide.tototal_p
+12:43:48 216:044 > =+ = cide.tototal_pr
+12:43:48 216:045 > =+ = cide.tototal_pri
+12:43:49 216:046 > =+ = cide.tototal_pric
+12:43:49 216:047 > =+ = cide.tototal_price
+12:43:59 216:048 > =+ = cide.tototal_price*
+12:44:00 216:049 > =+ = cide.tototal_price*i
+12:44:00 216:050 > =+ = cide.tototal_price*id
+12:44:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:44:55 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+12:45:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:45:22 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+12:45:49 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:47:02 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+12:49:27 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:51:12 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+12:51:30 217:013 > i
+12:51:31 217:014 > i.
+12:52:39 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\models.py
+----------------------------------------
+
+12:52:47 032:002 > s
+12:52:47 032:003 > su
+12:52:49 032:004 > sub
+12:52:50 032:005 > subt
+12:52:50 032:006 > subto
+12:53:30 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+12:53:33 217:013 > i
+12:53:35 217:014 > is
+12:53:35 217:015 > isu
+12:53:36 217:016 > isub
+12:53:47 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:53:51 254:000 > d
+12:53:51 254:001 > de
+12:53:51 254:002 > def
+12:53:53 254:004 > def s
+12:53:53 254:005 > def su
+12:53:54 254:006 > def sub
+12:54:09 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:54:15 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:58:34 249:004 > c
+12:58:35 249:005 > ci
+12:58:35 249:006 > cid
+12:58:37 249:007 > cid.
+12:58:39 249:008 > cid.t
+12:58:39 249:009 > cid.to
+12:58:41 249:008 > total_price
+12:58:47 249:020 >  =
+12:58:50 249:022 >  = t
+12:58:50 249:023 >  = to
+12:58:53 249:024 >  = tor
+12:58:53 249:025 >  = tora
+12:58:53 249:026 >  = toral
+12:58:55 249:024 >  = toralt
+12:58:55 249:025 >  = toralta
+12:58:55 249:026 >  = toraltal
+12:58:57 249:027 >  = toraltal_
+12:59:03 249:028 >  = toraltal_p
+12:59:03 249:029 >  = toraltal_pr
+12:59:03 249:030 >  = toraltal_pri
+12:59:04 249:031 >  = toraltal_pric
+12:59:04 249:032 >  = toraltal_price
+12:59:08 249:033 >  = toraltal_price=
+12:59:11 249:022 >  = toraltal_price=c
+12:59:11 249:023 >  = toraltal_price=ci
+12:59:11 249:024 >  = toraltal_price=cid
+12:59:12 249:025 >  = toraltal_price=cid.
+12:59:14 249:026 >  = toraltal_price=cid.t
+12:59:14 249:027 >  = toraltal_price=cid.ta
+12:59:15 249:026 > total_price
+12:59:17 249:037 > *
+12:59:21 249:038 > * +
+12:59:24 249:040 > * + 4
+12:59:24 249:041 > * + 45
+13:00:22 249:022 > * + 45c
+13:00:22 249:023 > * + 45ci
+13:00:22 249:024 > * + 45cid
+13:00:24 249:025 > * + 45cid .
+13:00:26 249:026 > * + 45cid .A
+13:00:30 249:026 > * + 45cid .At
+13:00:30 249:027 > * + 45cid .Atp
+13:00:33 249:026 > total_price
+13:00:41 249:020 >  +
+13:00:49 249:004 >  +   s
+13:00:49 249:005 >  +   su
+13:00:51 249:006 >  +   sub
+13:01:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+13:01:34 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:01:45 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+13:01:51 217:013 > c
+13:01:51 217:014 > ci
+13:01:52 217:015 > cid
+13:01:52 217:016 > cid.
+13:01:55 217:017 > cid.t
+13:01:55 217:018 > cid.to
+13:01:58 217:019 > cid.tot
+13:01:58 217:020 > cid.tota
+13:01:58 217:021 > cid.total
+13:02:02 217:022 > cid.total_
+13:02:03 217:023 > cid.total_p
+13:02:04 217:024 > cid.total_pr
+13:02:04 217:025 > cid.total_pri
+13:02:04 217:026 > cid.total_pric
+13:02:05 217:027 > cid.total_price
+13:02:10 217:028 > cid.total_price}
+13:02:10 217:029 > cid.total_price}}
+13:02:14 217:013 > cid.total_price}}{
+13:02:15 217:014 > cid.total_price}}{{
+13:02:27 217:015 > cid.total_price}}{{i
+13:04:06 217:015 > cid.total_price}}{{ic
+13:04:06 217:016 > cid.total_price}}{{ici
+13:04:06 217:017 > cid.total_price}}{{icid
+13:04:13 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+13:04:29 252:002 > e
+13:04:30 252:003 > el
+13:04:30 252:004 > els
+13:04:30 252:005 > else
+13:04:31 252:002 > else
+13:04:32 252:006 > :
+
+13:04:33 253:004 > f
+13:04:33 253:005 > fi
+13:04:35 253:004 > fi i
+13:04:35 253:005 > fi if
+
+13:11:15 256:000 > d
+13:11:16 256:001 > dr
+13:11:16 256:002 > drf
+13:11:17 256:000 > drfd
+13:11:17 256:001 > drfde
+13:11:18 256:002 > drfdef
+13:11:21 256:004 > drfdef s
+13:11:21 256:005 > drfdef su
+13:11:22 256:006 > drfdef sub
+13:11:23 256:007 > drfdef subt
+13:11:23 256:008 > drfdef subto
+13:11:23 256:009 > drfdef subtoa
+13:11:24 256:010 > drfdef subtoat
+13:11:26 256:009 > drfdef subtoatt
+13:11:26 256:010 > drfdef subtoatta
+13:11:26 256:011 > drfdef subtoattal
+13:11:28 256:012 > ()
+13:11:31 256:013 > r
+13:11:31 256:014 > re
+13:11:32 256:015 > req
+13:11:32 256:016 > requ
+13:11:34 256:017 > reque
+13:11:34 256:018 > reques
+13:11:34 256:019 > request
+13:11:35 256:020 > request,
+13:11:36 256:021 > request,i
+13:11:36 256:022 > request,id
+13:11:41 256:024 > request,id:
+
+13:11:56 257:002 > c
+13:11:57 257:003 > ci
+13:11:57 257:004 > cid
+13:11:59 257:006 > cid =
+13:12:18 257:008 > cid = A
+13:12:19 257:009 > cid = At
+13:12:20 257:010 > cid = Ato
+13:12:21 257:009 > cid = Atod
+13:12:21 257:010 > cid = Atodd
+13:12:24 257:008 > Add_to_cart
+13:12:28 257:019 >  .
+13:12:30 257:020 >  .o
+13:12:31 257:020 > objects
+13:12:32 257:027 > .
+13:12:36 257:028 > .g
+13:12:36 257:029 > .ge
+13:12:37 257:030 > .get
+13:12:38 257:031 > ()
+13:12:39 257:032 > i
+13:12:39 257:033 > id
+13:12:40 257:034 > id=
+13:12:42 257:035 > id=i
+13:12:42 257:036 > id=id
+13:12:44 257:035 > def is_valid(self):
+      valid = super().is_valid()
+      if not valid:
+          return False
+      # Custom Logic
+      return True
+13:12:45 261:006 > # Custom Logic
+13:12:46 257:035 > id)
+
+13:12:49 259:002 > i
+13:12:49 259:003 > if
+
+13:13:08 257:028 > a
+13:13:09 257:029 > al
+13:13:09 257:030 > all
+13:13:10 257:028 > all
+13:13:11 257:031 > ()
+
+13:13:21 259:002 > l
+13:13:23 259:003 > l1
+13:13:24 259:005 > l1 =
+13:13:25 259:006 > []
+
+13:13:30 261:002 > s
+13:13:31 261:003 > su
+13:13:32 261:004 > sub
+13:13:35 261:005 > sub_
+13:13:36 261:006 > sub_t
+13:13:36 261:007 > sub_to
+13:13:37 261:008 > sub_tot
+13:13:38 261:009 > sub_tota
+13:13:38 261:010 > sub_total
+13:13:43 261:012 > sub_total =
+13:13:44 261:014 > sub_total = 0
+
+13:13:49 263:002 > t
+13:13:49 263:003 > to
+13:13:50 263:004 > tot
+13:13:50 263:005 > tota
+13:13:53 263:006 > total
+13:13:53 263:008 > total =
+13:13:58 263:010 > total = 0
+13:14:18 263:010 > total = 01
+
+13:14:26 265:002 > f
+13:14:27 265:003 > fo
+13:14:27 265:004 > for
+13:14:28 265:006 > for i
+13:14:29 265:008 > for i i
+13:14:29 265:009 > for i in
+13:14:30 265:011 > for i in r
+13:14:30 265:012 > for i in ra
+13:14:33 265:011 > for i in ral
+13:14:37 265:011 > for i in ralc
+13:14:37 265:012 > for i in ralci
+13:14:37 265:013 > for i in ralcid
+13:14:38 265:014 > for i in ralcid:
+
+13:14:49 266:004 > z
+13:14:50 266:006 > z =
+13:14:51 266:008 > z = i
+13:14:52 266:009 > z = i.
+13:14:53 266:010 > z = i.t
+13:14:53 266:011 > z = i.to
+13:14:54 266:010 > total_price
+13:14:59 266:010 > p
+13:14:59 266:011 > pr
+13:15:01 266:010 > price
+13:15:02 266:016 >  *
+13:15:03 266:017 >  *i
+13:15:05 266:018 >  *i i
+13:15:06 266:019 >  *i i.
+13:15:09 266:020 >  *i i.q
+13:15:09 266:021 >  *i i.qu
+13:15:10 266:020 > quantity
+
+13:15:14 268:004 > l
+13:15:16 268:005 > l1
+13:15:17 268:006 > l1.
+13:15:17 268:007 > l1.a
+13:15:18 268:008 > l1.ad
+13:15:20 268:007 > append
+13:15:21 268:013 > ()
+13:15:23 268:014 > i
+13:15:33 268:014 > iz
+
+13:15:52 269:004 > s
+13:16:16 269:005 > su
+13:16:18 269:004 > sub_total
+13:16:19 269:014 >  =
+13:16:20 269:016 >  = j
+13:16:23 269:016 >  = js
+13:16:23 269:017 >  = jsu
+13:16:25 269:018 >  = jsum
+13:16:26 269:016 > sum
+13:16:27 269:019 > ()
+13:16:29 269:020 > l
+13:16:30 269:021 > l1
+
+13:16:37 270:004 > t
+13:16:37 270:005 > to
+13:16:38 270:004 > total
+13:16:40 270:010 >  =
+13:16:46 270:012 >  = s
+13:16:47 270:013 >  = su
+13:16:49 270:014 >  = suv
+13:16:49 270:014 >  = suvb
+13:16:51 270:012 > sub_total
+13:16:54 270:022 >  +
+13:16:54 270:023 >  +5
+13:16:57 270:024 >  +55
+13:16:59 270:024 >  +550
+
+13:17:11 271:004 > r
+13:17:11 271:005 > re
+13:17:12 271:004 > return
+13:17:34 245:002 > cid = Add_to_cart.objects.all()
+  
+  l1 =[]
+  
+  sub_total = 0
+  
+  total = 1
+  
+  for i in cid:
+    z = i.price * i.quantity
+    
+    l1.append(z)
+    sub_total = sum(l1)
+    total = sub_total + 50
+13:18:25 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+
+13:18:37 217:015 > i
+13:18:38 217:015 > it
+13:18:38 217:016 > ito
+13:18:39 217:017 > itot
+13:18:39 217:018 > itota
+13:18:39 217:019 > itotal
+13:18:47 217:015 > itotali
+13:18:48 217:016 > itotali.
+13:18:49 217:017 > itotali.t
+13:18:49 217:018 > itotali.to
+13:18:50 217:019 > itotali.tot
+13:18:50 217:020 > itotali.tota
+13:18:50 217:021 > itotali.total
+13:18:54 217:017 > total_price
+13:19:18 217:024 > rice
+13:19:23 217:015 > c
+13:19:23 217:016 > ci
+13:19:24 217:017 > cid
+
+13:20:21 216:008 > f
+13:20:21 216:009 > fo
+13:20:23 216:010 > for
+13:20:24 216:008 > {% for  in  %}
+									
+								{% endfor %}
+13:20:25 216:015 > i
+13:20:28 216:020 > ic
+13:20:28 216:021 > ici
+13:20:29 216:022 > icid
+13:20:50 233:008 > {% endfor %}
+
+13:20:56 221:015 > i
+
+13:21:05 227:013 > {
+13:21:06 227:014 > {{
+13:21:06 227:015 > {{}
+13:21:06 227:016 > {{}}
+13:21:32 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+13:22:14 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+13:22:16 227:013 > $45
+13:22:17 221:015 > cid
+13:22:22 218:007 > {% endfor %}
+13:22:24 216:008 > for
+13:23:43 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------

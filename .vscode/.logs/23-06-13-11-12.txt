@@ -1,0 +1,640 @@
+23-06-13 11:12 Session started
+----------------------------------------
+11:12:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+11:13:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:13:12 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+11:13:14 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:13:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+11:23:48 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:25:29 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:27:41 166:002 > l
+11:27:41 166:003 > li
+11:27:42 166:004 > lis
+11:27:43 166:006 > lis =
+11:27:45 166:008 > []
+11:27:50 166:008 > 0
+11:27:53 166:008 > []
+
+11:27:56 168:002 > s
+11:27:56 168:003 > su
+11:27:57 168:004 > sub
+11:27:59 168:005 > sub_
+11:28:00 168:006 > sub_t
+11:28:00 168:007 > sub_to
+11:28:00 168:008 > sub_tot
+11:28:00 168:009 > sub_tota
+11:28:01 168:010 > sub_total
+11:28:02 168:012 > sub_total =
+11:28:04 168:014 > sub_total = 0
+
+11:28:06 170:002 > s
+11:28:07 170:003 > su
+11:28:07 170:004 > sum
+11:28:30 170:002 > sum t
+11:28:31 170:003 > sum to
+11:28:31 170:004 > sum tot
+11:28:31 170:005 > sum tota
+11:28:31 170:006 > sum total
+11:28:32 170:008 > sum total =
+11:28:34 170:010 > sum total = 1
+
+11:28:37 172:002 > i
+11:28:37 172:003 > if
+11:28:39 172:002 > if f
+11:28:40 172:003 > if fr
+11:28:40 172:004 > if fro
+11:28:41 172:003 > if froo
+11:28:42 172:004 > if froor
+11:28:42 172:006 > if froor i
+11:28:43 172:008 > if froor i i
+11:28:43 172:009 > if froor i in
+11:28:47 172:011 > if froor i in c
+11:28:47 172:012 > if froor i in ci
+11:28:48 172:013 > if froor i in cid
+11:28:50 172:014 > if froor i in cid:
+
+11:28:56 174:004 > z
+11:28:57 174:006 > z =
+11:29:00 174:008 > z = i
+11:29:01 174:009 > z = i.
+11:29:04 174:010 > z = i.p
+11:29:05 174:011 > z = i.pr
+11:29:05 174:012 > z = i.pri
+11:29:06 174:010 > price
+11:29:07 174:016 >  *
+11:29:10 174:018 >  * i
+11:29:11 174:019 >  * i.
+11:29:13 174:020 >  * i.q
+11:29:14 174:021 >  * i.qu
+11:29:15 174:020 > quantity
+
+11:30:11 176:004 > l
+11:30:12 176:005 > li
+11:30:14 176:006 > lis
+11:30:16 176:008 > lis =
+11:30:22 176:007 > lis = .
+11:30:23 176:008 > lis = .a
+11:30:24 176:008 > append
+11:30:26 176:014 > ()
+11:30:52 176:008 > e
+11:30:53 176:008 > extend
+11:30:56 176:014 > ()
+11:31:01 176:015 > []
+11:31:02 176:016 > 1
+11:31:02 176:017 > 12
+11:31:03 176:018 > 12,
+11:31:04 176:019 > 12,4
+11:31:04 176:020 > 12,45
+11:31:05 176:021 > 12,45,
+11:31:06 176:022 > 12,45,7
+11:31:06 176:023 > 12,45,78
+11:31:18 176:008 > 12,45,78a
+11:31:18 176:009 > 12,45,78ap
+11:31:19 176:008 > append
+11:31:21 176:014 > ()
+11:31:40 176:015 > z
+
+11:31:55 166:009 > 2
+11:31:55 166:010 > 20
+11:31:55 166:011 > 200
+11:31:56 166:012 > 2000
+11:32:00 166:013 > 2000,
+11:32:04 166:014 > 2000,8
+11:32:04 166:015 > 2000,88
+11:32:04 166:016 > 2000,888
+11:32:06 166:017 > 2000,888,
+11:32:08 166:018 > 2000,888,1
+11:32:08 166:019 > 2000,888,10
+11:32:08 166:020 > 2000,888,100
+11:32:09 166:021 > 2000,888,1000
+11:32:10 166:022 > 2000,888,1000,
+11:32:12 166:023 > 2000,888,1000,2
+11:32:12 166:024 > 2000,888,1000,20
+11:32:12 166:025 > 2000,888,1000,200
+
+11:33:39 178:004 > s
+11:33:39 178:005 > su
+11:33:40 178:004 > sub_total
+11:33:41 178:014 >  =
+11:33:42 178:016 >  = s
+11:33:42 178:017 >  = su
+11:33:46 178:016 > sum
+11:33:47 178:019 > ()
+11:33:49 178:020 > l
+11:33:49 178:021 > li
+11:33:49 178:022 > lis
+11:34:09 180:000 > context = {
+    'cid' : cid
+  }
+11:34:22 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:34:42 213:024 > s
+11:34:43 213:025 > su
+11:34:45 213:026 > sub
+11:34:46 213:027 > sub_
+11:34:47 213:028 > sub_t
+11:34:48 213:029 > sub_ta
+11:34:50 213:029 > sub_tao
+11:34:50 213:030 > sub_taot
+11:34:50 213:031 > sub_taota
+11:34:51 213:032 > sub_taotal
+11:34:53 213:022 > {sub_total}
+11:35:19 213:033 > }
+11:35:25 213:023 > }{
+
+11:36:41 212:012 > >
+11:36:42 212:013 > </td>
+11:36:45 212:013 > {
+11:36:45 212:014 > {{
+11:36:46 212:015 > {{}
+11:36:46 212:016 > {{}}
+11:36:49 212:015 > {{}}s
+11:36:49 212:016 > {{}}su
+11:36:51 212:017 > {{}}sub
+11:36:54 212:018 > {{}}sub_
+11:36:55 212:019 > {{}}sub_t
+11:36:56 212:020 > {{}}sub_to
+11:36:56 212:021 > {{}}sub_tot
+11:36:56 212:022 > {{}}sub_tota
+11:36:56 212:023 > {{}}sub_total
+11:37:45 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:38:42 182:006 > s
+11:38:42 182:007 > su
+11:38:44 182:006 > ''
+11:38:44 182:007 > s
+11:38:45 182:008 > su
+11:38:46 182:009 > sub
+11:38:48 182:010 > sub_
+11:38:49 182:011 > sub_t
+11:38:49 182:012 > sub_to
+11:38:49 182:013 > sub_tot
+11:38:49 182:014 > sub_tota
+11:38:50 182:015 > sub_total
+11:38:54 182:018 > sub_total :
+11:38:55 182:020 > sub_total : s
+11:38:55 182:021 > sub_total : su
+11:38:57 182:020 > sub_total
+
+11:39:00 181:017 > ,
+11:43:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:43:20 215:013 > >
+11:43:20 215:014 > </td>
+11:43:29 215:014 > 5
+11:43:32 215:015 > 50
+11:43:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:44:45 177:004 > t
+11:44:45 177:005 > tt
+11:44:45 177:006 > tto
+11:44:47 177:005 > ttoo
+11:44:47 177:006 > ttooa
+11:44:48 177:006 > ttooat
+11:44:48 177:007 > ttooata
+11:44:48 177:008 > ttooatal
+11:44:50 177:011 > ttooatal  =
+11:44:52 177:013 > ttooatal  = s
+11:44:52 177:014 > ttooatal  = su
+11:44:53 177:013 > sub_total
+11:44:54 177:022 > +
+11:44:55 177:023 > +5
+11:44:56 177:024 > +50
+11:45:10 183:004 > ''
+
+11:45:12 183:005 > t
+11:45:12 183:006 > to
+11:45:13 183:007 > toa
+11:45:13 183:007 > toat
+11:45:14 183:008 > toata
+11:45:14 183:009 > toatal
+11:45:17 183:012 > toatal :
+11:45:18 183:014 > toatal : t
+11:45:18 183:015 > toatal : tr
+11:45:20 183:014 > toatal : trt
+11:45:20 183:015 > toatal : trto
+11:45:20 183:016 > toatal : trtoa
+11:45:21 183:017 > toatal : trtoat
+11:45:21 183:017 > toatal : trtoatt
+11:45:21 183:017 > toatal : trtoattt
+11:45:22 183:016 > toatal : trtoatttt
+11:45:23 183:017 > toatal : trtoatttta
+11:45:24 183:018 > toatal : trtoattttal
+
+11:45:26 182:027 > ,
+11:45:33 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+11:45:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+11:46:35 165:002 > l
+11:46:35 165:003 > li
+11:46:35 165:004 > lis
+11:46:39 165:002 > list
+11:46:43 165:005 > t
+11:46:43 165:006 > t1
+11:46:45 165:004 > t1s
+11:46:46 165:006 > t1s =
+11:46:47 165:008 > t1s = f
+11:46:47 165:009 > t1s = fo
+11:46:48 165:010 > t1s = for
+11:46:48 165:012 > t1s = for i
+11:46:48 165:014 > t1s = for i i
+11:46:49 165:016 > t1s = for i i n
+11:46:49 165:017 > t1s = for i i n=
+11:46:50 165:015 > t1s = for i i n=n
+11:46:50 165:017 > t1s = for i i n=n c
+11:46:51 165:018 > t1s = for i i n=n ci
+11:46:51 165:019 > t1s = for i i n=n cid
+11:46:58 165:008 > []
+
+11:47:01 167:002 > f
+11:47:01 167:003 > fo
+11:47:01 167:004 > for
+11:47:02 167:006 > for i
+11:47:02 167:008 > for i c
+11:47:03 167:009 > for i ci
+11:47:03 167:010 > for i cid
+11:47:04 167:008 > for i cidi
+11:47:05 167:009 > for i cidin
+11:47:05 167:011 > for i cidin c
+11:47:05 167:012 > for i cidin ci
+11:47:05 167:013 > for i cidin cid
+
+11:47:22 168:002 > z
+11:47:23 168:004 > z =
+11:47:26 168:002 > z = x
+11:47:26 168:004 > z = x =
+11:47:27 168:006 > z = x = i
+11:47:28 168:007 > z = x = i.
+11:47:28 168:008 > z = x = i.p
+11:47:28 168:009 > z = x = i.pi
+11:47:29 168:009 > z = x = i.pir
+11:47:29 168:010 > z = x = i.piri
+11:47:29 168:011 > z = x = i.piric
+11:47:29 168:012 > z = x = i.pirice
+11:47:32 168:013 > z = x = i.pirice*
+11:47:33 168:014 > z = x = i.pirice*i
+11:47:33 168:015 > z = x = i.pirice*i.
+11:47:34 168:016 > z = x = i.pirice*i.q
+11:47:34 168:017 > z = x = i.pirice*i.qu
+11:47:34 168:018 > z = x = i.pirice*i.qua
+11:47:34 168:019 > z = x = i.pirice*i.quan
+11:47:35 168:020 > z = x = i.pirice*i.quant
+11:47:35 168:021 > z = x = i.pirice*i.quanti
+11:47:35 168:022 > z = x = i.pirice*i.quantit
+11:47:35 168:023 > z = x = i.pirice*i.quantity
+11:47:39 168:016 > quantity
+
+11:47:43 169:002 > s
+11:47:43 169:003 > su
+11:47:43 169:004 > sub
+11:47:44 169:005 > subt
+11:47:44 169:006 > subto
+11:47:44 169:007 > subtot
+11:47:45 169:008 > subtota
+11:47:54 169:002 > subtotal
+11:47:54 169:003 > subtotali
+11:47:54 169:004 > subtotalis
+11:47:59 169:005 > subtotalis.
+11:47:59 169:006 > subtotalis.a
+11:47:59 169:007 > subtotalis.ap
+11:48:00 169:008 > subtotalis.app
+11:48:01 169:006 > append
+11:48:02 169:012 > 9
+11:48:04 169:012 > ()
+11:48:05 169:013 > x
+
+11:48:10 170:005 > _
+11:48:11 170:006 > _t
+11:48:11 170:007 > _to
+11:48:11 170:008 > _tot
+11:48:13 170:009 > _tota
+11:48:13 170:010 > _total
+11:48:14 170:012 > _total =
+11:48:15 170:014 > _total = s
+11:48:15 170:015 > _total = su
+11:48:15 170:016 > _total = sum
+11:48:17 170:017 > ()
+11:48:17 170:018 > l
+11:48:17 170:019 > li
+11:48:18 170:020 > lis
+11:48:19 170:018 > lis
+
+11:48:27 171:002 > t
+11:48:27 171:003 > to
+11:48:27 171:004 > tot
+11:48:28 171:005 > tota
+11:48:28 171:006 > total
+11:48:29 171:008 > total =
+11:48:32 171:010 > total = u
+11:48:33 171:011 > total = ub
+11:48:34 171:010 > total = ubs
+11:48:34 171:011 > total = ubsu
+11:48:34 171:012 > total = ubsub
+11:48:35 171:013 > total = ubsub_
+11:48:35 171:014 > total = ubsub_t
+11:48:35 171:015 > total = ubsub_to
+11:48:36 171:016 > total = ubsub_tot
+11:48:37 171:017 > total = ubsub_tota
+11:48:37 171:018 > total = ubsub_total
+11:48:38 171:019 > total = ubsub_total=
+11:48:40 171:019 > total = ubsub_total=+
+11:48:41 171:020 > total = ubsub_total=+5
+11:48:41 171:021 > total = ubsub_total=+50
+11:48:45 175:004 > ''
+
+11:48:45 175:005 > s
+11:48:46 175:006 > su
+11:48:46 175:007 > sub
+11:48:47 175:008 > sub_
+11:48:47 175:009 > sub_t
+11:48:47 175:010 > sub_to
+11:48:47 175:011 > sub_tot
+11:48:48 175:012 > sub_tota
+11:48:48 175:013 > sub_total
+11:48:50 175:016 > sub_total :
+11:48:51 175:018 > sub_total : s
+11:48:51 175:019 > sub_total : su
+11:48:51 175:020 > sub_total : sub
+11:48:52 175:018 > sub_total
+11:48:54 175:027 > ,
+11:48:56 176:004 > ""
+11:48:57 176:004 > ''
+
+11:48:58 176:005 > t
+11:48:58 176:006 > to
+11:48:58 176:007 > tot
+11:48:59 176:008 > tota
+11:48:59 176:009 > total
+11:49:01 176:013 > total  :
+11:49:04 176:015 > total  : t
+11:49:04 176:016 > total  : to
+11:49:05 176:017 > total  : tot
+11:49:06 176:018 > total  : tota
+11:49:06 176:019 > total  : total
+
+11:49:14 167:014 > :
+
+11:50:01 166:002 > s
+11:50:01 166:003 > sb
+11:50:03 166:003 > sbu
+11:50:03 166:004 > sbub
+11:50:03 166:005 > sbub_
+11:50:04 166:006 > sbub_t
+11:50:04 166:007 > sbub_to
+11:50:04 166:008 > sbub_toa
+11:50:06 166:008 > sbub_toat
+11:50:06 166:009 > sbub_toata
+11:50:06 166:010 > sbub_toatal
+11:50:06 166:012 > sbub_toatal =
+11:50:08 166:014 > sbub_toatal = 0
+
+11:50:10 167:002 > t
+11:50:10 167:003 > to
+11:50:11 167:004 > tot
+11:50:11 167:005 > tota
+11:50:11 167:006 > total
+11:50:11 167:008 > total =
+11:50:12 167:009 > total ==
+11:50:13 167:009 > total ==1
+11:50:15 167:010 > total ==1  1
+
+11:51:46 165:001 > l
+11:51:46 165:002 > li
+11:51:46 165:003 > lis
+11:51:48 165:005 > []
+11:51:56 169:004 > 'sub_total' : sub_total,
+    'total'  : total
+11:51:58 165:001 > lis = []
+  sub_total = 0
+  total = 1
+  
+  for i in cid: 
+  x = i.price*i.quantity
+  lis.append(x)
+  sub_total = sum(lis)
+  total = sub_total+50
+11:52:09 165:002 >  l
+11:52:09 165:003 >  ls
+11:52:11 165:003 >  lsi
+11:52:11 165:004 >  lsis
+11:52:11 165:005 > []
+11:52:15 165:006 >  =
+11:52:17 165:008 > []
+
+11:52:18 166:002 > s
+11:52:19 166:003 > su
+11:52:19 166:004 > sub
+11:52:21 166:005 > sub_
+11:52:22 166:006 > sub_t
+11:52:22 166:007 > sub_tp
+11:52:22 166:008 > sub_tpt
+11:52:23 166:009 > sub_tpta
+11:52:23 166:010 > sub_tptal
+11:52:25 166:007 > sub_tptal o
+11:52:25 166:008 > sub_tptal ot
+11:52:25 166:009 > sub_tptal ota
+11:52:26 166:010 > sub_tptal otal
+11:52:27 166:012 > sub_tptal otal =
+11:52:28 166:014 > sub_tptal otal = 0
+
+11:52:29 167:002 > t
+11:52:29 167:003 > to
+11:52:29 167:004 > tot
+11:52:30 167:005 > tota
+11:52:30 167:006 > total
+11:52:31 167:008 > total =
+11:52:32 167:010 > total = 1
+
+11:52:35 169:002 > f
+11:52:35 169:003 > fo
+11:52:35 169:004 > for
+11:52:36 169:006 > for i
+11:52:36 169:008 > for i i
+11:52:36 169:009 > for i in
+11:52:37 169:011 > for i in c
+11:52:37 169:012 > for i in ci
+11:52:37 169:013 > for i in cid
+
+11:52:39 170:000 > :
+
+11:52:41 169:014 > :
+
+11:52:42 170:004 > x
+11:52:43 170:006 > x =
+11:52:45 170:008 > x = i
+11:52:46 170:009 > x = i.
+11:52:46 170:010 > x = i.p
+11:52:46 170:011 > x = i.pr
+11:52:47 170:012 > x = i.pri
+11:52:47 170:013 > x = i.pric
+11:52:47 170:014 > x = i.price
+11:52:48 170:015 > x = i.price.
+11:52:50 170:015 > x = i.price.*
+11:52:50 170:016 > x = i.price.*i
+11:52:51 170:017 > x = i.price.*i.
+11:52:52 170:018 > x = i.price.*i.q
+11:52:52 170:019 > x = i.price.*i.qu
+11:52:52 170:020 > x = i.price.*i.qua
+11:52:52 170:021 > x = i.price.*i.quan
+11:52:52 170:022 > x = i.price.*i.quant
+11:52:52 170:023 > x = i.price.*i.quanti
+11:52:53 170:024 > x = i.price.*i.quantit
+11:52:53 170:025 > x = i.price.*i.quantity
+11:52:55 170:018 > quantity
+
+11:52:57 171:004 > s
+11:52:57 171:005 > su
+11:52:58 171:004 > sul
+11:52:58 171:005 > suli
+11:52:58 171:006 > sulis
+11:53:00 171:007 > sulis.
+11:53:00 171:008 > sulis.a
+11:53:00 171:009 > sulis.ap
+11:53:01 171:010 > sulis.app
+11:53:01 171:011 > sulis.appe
+11:53:01 171:012 > sulis.appen
+11:53:01 171:013 > sulis.append
+11:53:03 171:014 > ()
+11:53:03 171:015 > x
+
+11:53:06 172:004 > y
+11:53:07 172:005 > ys
+11:53:07 172:004 > yss
+11:53:08 172:005 > yssu
+11:53:08 172:006 > yssub
+11:53:09 172:004 > sub_total
+11:53:10 172:014 >  =
+11:53:15 172:016 >  = s
+11:53:15 172:017 >  = su
+11:53:15 172:018 >  = sum
+11:53:16 172:019 > ()
+11:53:16 172:020 > l
+11:53:17 172:021 > li
+11:53:17 172:022 > lis
+
+11:53:20 173:004 > t
+11:53:20 173:005 > to
+11:53:21 173:006 > tot
+11:53:21 173:007 > tota
+11:53:21 173:008 > total
+11:53:22 173:010 > total =
+11:53:23 173:012 > total = s
+11:53:23 173:013 > total = su
+11:53:23 173:014 > total = sub
+11:53:23 173:015 > total = subt
+11:53:25 173:012 > sub_total
+11:53:26 173:021 > +
+11:53:27 173:022 > +5
+11:53:27 173:023 > +50
+11:53:39 180:004 > ''
+
+11:53:40 180:005 > s
+11:53:41 180:006 > su
+11:53:41 180:007 > sub
+11:53:42 180:008 > sub_
+11:53:42 180:009 > sub_t
+11:53:42 180:010 > sub_to
+11:53:42 180:011 > sub_toy
+11:53:43 180:011 > sub_toyt
+11:53:43 180:012 > sub_toyta
+11:53:44 180:013 > sub_toyta;
+11:53:45 180:013 > sub_toyta;k
+11:53:46 180:014 > sub_toyta;kl
+11:53:46 180:013 > sub_toyta;kll
+11:53:49 180:016 > sub_toyta;kll  :
+11:53:50 180:018 > sub_toyta;kll  : s
+11:53:50 180:019 > sub_toyta;kll  : su
+11:53:50 180:020 > sub_toyta;kll  : sub
+11:53:51 180:018 > sub_total
+11:53:52 180:027 > ,
+11:53:55 181:004 > ''
+
+11:54:01 181:005 > t
+11:54:02 181:006 > to
+11:54:02 181:007 > tot
+11:54:02 181:008 > tota
+11:54:03 181:009 > total
+11:54:05 181:012 > total :
+11:54:06 181:013 > total :t
+11:54:06 181:014 > total :to
+11:54:06 181:015 > total :tot
+11:54:08 181:014 > total :tot t
+11:54:09 181:015 > total :tot to
+11:54:09 181:016 > total :tot tot
+11:54:09 181:017 > total :tot tota
+11:54:09 181:018 > total :tot total
+11:54:31 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+11:54:44 260:003 > b
+11:54:45 260:004 > br
+11:54:45 260:003 > <br>
+11:54:47 260:007 > b
+11:54:47 260:008 > br
+11:54:48 260:007 > <br>
+11:55:19 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:02:38 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+12:02:40 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+12:03:01 255:023 > d
+12:03:01 255:024 > di
+12:03:02 255:025 > dic
+12:03:02 255:025 > dicv
+12:03:02 255:023 > <div></div>
+12:03:07 255:023 > c
+12:03:08 255:024 > cl
+12:03:08 255:025 > cla
+12:03:08 255:023 > class
+12:04:02 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+12:04:17 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+12:04:46 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+12:05:10 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+12:05:11 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+
+12:05:19 260:077 > \
+12:05:23 260:043 > \-
+12:05:24 260:044 > \-b
+12:05:24 260:045 > \-bt
+12:05:24 260:046 > \-btn
+12:05:26 260:047 > \-btn -
+12:05:26 260:048 > \-btn -p
+12:05:26 260:049 > \-btn -pr
+12:05:26 260:050 > \-btn -pri
+12:05:26 260:051 > \-btn -pria
+12:05:27 260:052 > \-btn -priar
+12:05:27 260:053 > \-btn -priary
+12:05:29 260:051 > \-btn -priarym
+12:05:30 260:052 > \-btn -priarymr
+12:05:31 260:052 > \-btn -priarymra
+12:05:31 260:053 > \-btn -priarymrar
+12:05:31 260:054 > \-btn -priarymrary
+12:05:44 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+12:05:48 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+12:05:55 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+12:06:06 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------

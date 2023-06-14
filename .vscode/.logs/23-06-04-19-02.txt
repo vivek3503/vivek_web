@@ -1,0 +1,198 @@
+23-06-04 19:02 Session started
+----------------------------------------
+19:02:41 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+19:02:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\about.html
+----------------------------------------
+19:02:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------
+19:02:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+19:02:54 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\confirm.html
+----------------------------------------
+19:02:55 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\forget_password.html
+----------------------------------------
+19:02:56 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+19:02:56 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index_2.html
+----------------------------------------
+19:02:56 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\index.html
+----------------------------------------
+19:02:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+19:02:57 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\news.html
+----------------------------------------
+19:02:58 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\mail.php
+----------------------------------------
+19:02:58 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\register.html
+----------------------------------------
+19:02:59 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\shop.html
+----------------------------------------
+19:04:25 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+19:04:28 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+19:05:39 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+19:06:02 030:007 > t
+19:06:03 030:008 > tr
+19:06:03 030:009 > try
+19:06:03 030:010 > try:
+
+19:08:08 055:011 > e
+19:08:08 055:012 > ex
+19:08:08 055:013 > exc
+19:08:09 055:014 > excp
+19:08:10 055:011 > except
+19:08:10 055:017 > :
+
+19:08:14 056:009 > e
+19:08:15 056:010 > e_
+19:08:15 056:011 > e_m
+19:08:15 056:012 > e_mg
+19:08:16 056:012 > e_mgs
+19:08:17 056:013 > e_mgsg
+19:08:21 056:015 > e_mgsg =
+19:08:21 056:017 > e_mgsg = i
+19:08:22 056:018 > e_mgsg = in
+19:08:22 056:019 > e_mgsg = inv
+19:08:22 056:020 > e_mgsg = inva
+19:08:23 056:021 > e_mgsg = inval
+19:08:23 056:022 > e_mgsg = invali
+19:08:23 056:023 > e_mgsg = invalid
+19:08:28 056:017 > ""
+19:08:28 056:018 > I
+19:08:29 056:019 > IN
+19:08:29 056:020 > INV
+19:08:29 056:021 > INVA
+19:08:30 056:022 > INVAL
+19:08:31 056:023 > INVALI
+19:08:31 056:024 > INVALID
+19:08:32 056:026 > INVALID E
+19:08:32 056:027 > INVALID EM
+19:08:32 056:028 > INVALID EMI
+19:08:32 056:029 > INVALID EMIL
+19:08:33 056:030 > INVALID EMIL+
+19:08:34 056:028 > INVALID EMIL+A
+19:08:34 056:029 > INVALID EMIL+AI
+19:08:34 056:030 > INVALID EMIL+AIL
+
+19:08:56 058:009 > c
+19:08:56 058:010 > co
+19:08:56 058:011 > con
+19:08:57 058:012 > cont
+19:08:57 058:013 > conte
+19:08:57 058:014 > contex
+19:08:57 058:015 > context
+19:08:59 058:017 > context =
+19:08:59 058:018 > {}
+19:09:04 059:011 > ''
+
+19:09:05 059:012 > e
+19:09:05 059:013 > e_
+19:09:06 059:014 > e_,
+19:09:06 059:015 > e_,s
+19:09:06 059:016 > e_,sg
+19:09:09 059:014 > e_,sgm
+19:09:09 059:015 > e_,sgms
+19:09:09 059:016 > e_,sgmsg
+19:09:11 059:019 > e_,sgmsg :
+19:09:12 059:021 > e_,sgmsg : e
+19:09:13 059:022 > e_,sgmsg : e_
+19:09:14 059:023 > e_,sgmsg : e_m
+19:09:14 059:024 > e_,sgmsg : e_ms
+19:09:14 059:025 > e_,sgmsg : e_msg
+
+19:09:33 061:009 > r
+19:09:33 061:010 > re
+19:09:33 061:011 > ret
+19:09:33 061:012 > retu
+19:09:33 061:013 > retur
+19:09:34 061:014 > return
+19:09:38 061:016 > return r
+19:09:39 061:017 > return re
+19:09:39 061:018 > return ren
+19:09:39 061:019 > return rend
+19:09:40 061:016 > render
+19:09:46 061:022 > ()
+19:09:48 061:023 > r
+19:09:48 061:024 > re
+19:09:51 061:023 > request
+19:09:52 061:030 > ,
+19:09:53 061:031 > ""
+19:09:53 061:032 > e
+19:09:54 061:033 > ec
+19:09:54 061:034 > eco
+19:09:54 061:035 > ecom
+19:09:54 061:036 > ecoma
+19:09:55 061:037 > ecomap
+19:09:55 061:038 > ecomapp
+19:09:56 061:039 > ecomapp/
+19:09:57 061:040 > ecomapp/l
+19:09:58 061:041 > ecomapp/lo
+19:09:58 061:042 > ecomapp/log
+19:09:58 061:043 > ecomapp/logi
+19:09:58 061:044 > ecomapp/login
+19:09:59 061:045 > ecomapp/login.
+19:09:59 061:046 > ecomapp/login.h
+19:09:59 061:047 > ecomapp/login.ht
+19:10:00 061:048 > ecomapp/login.htm
+19:10:00 061:049 > ecomapp/login.html
+19:10:01 061:051 > ecomapp/login.html,
+19:10:02 061:052 > ecomapp/login.html,c
+19:10:02 061:053 > ecomapp/login.html,co
+19:10:02 061:054 > ecomapp/login.html,con
+19:10:03 061:055 > ecomapp/login.html,cont
+19:10:03 061:056 > ecomapp/login.html,conte
+19:10:03 061:057 > ecomapp/login.html,contex
+19:10:03 061:058 > ecomapp/login.html,context
+19:13:15 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\login.html
+----------------------------------------
+19:13:23 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+19:13:39 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+
+19:14:15 161:068 > p
+19:14:15 161:069 > pa
+19:14:15 161:070 > pat
+19:14:15 161:071 > patt
+19:14:15 161:072 > patte
+19:14:16 161:073 > patter
+19:14:16 161:074 > pattern
+19:14:17 161:068 > pattern=""
+19:14:22 161:077 > []
+19:14:25 161:078 > A
+19:14:28 161:079 > A-
+19:14:30 161:080 > A-Z
+19:14:31 161:081 > A-Za
+19:14:33 161:082 > A-Za-
+19:14:34 161:083 > A-Za-z
+19:14:37 161:085 > A-Za-z+
+
+19:14:52 165:072 > p
+19:14:52 165:073 > pa
+19:14:52 165:074 > pat
+19:14:52 165:075 > patt
+19:14:53 165:076 > patte
+19:14:53 165:072 > pattern=""
+19:14:55 165:081 > []
+19:14:57 165:082 > 6
+19:14:57 165:083 > 6-
+19:14:58 165:084 > 6-9
+19:15:02 165:085 > {}
+19:15:04 165:086 > 1
+19:15:08 165:087 > []
+19:15:09 165:088 > 0
+19:15:10 165:089 > 0-
+19:15:10 165:090 > 0-9
+19:15:13 165:092 > {}
+19:15:20 165:087 > }
+19:15:23 165:093 > {}
+19:15:27 165:094 > 9
+
+19:15:35 162:073 > r
+19:15:35 162:074 > re
+19:15:35 162:075 > req
+19:15:37 162:073 > required

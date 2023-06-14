@@ -1,0 +1,10 @@
+23-06-07 18:12 Session started
+----------------------------------------
+18:12:05 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\mynewproject\urls.py
+----------------------------------------
+18:12:06 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+18:12:25 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+18:12:53 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\cart.html
+----------------------------------------

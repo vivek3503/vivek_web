@@ -1,0 +1,8 @@
+23-06-05 19:15 Session started
+----------------------------------------
+19:15:11 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------
+23-06-05 19:15 Session started
+----------------------------------------
+19:15:34 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\urls.py
+----------------------------------------

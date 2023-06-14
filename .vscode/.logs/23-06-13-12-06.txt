@@ -1,0 +1,272 @@
+23-06-13 12:06 Session started
+----------------------------------------
+12:06:46 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\contact.html
+----------------------------------------
+12:06:48 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+12:16:38 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+
+12:16:45 005:000 > i
+12:16:46 005:001 > im
+12:16:46 005:002 > imp
+12:16:46 005:003 > impo
+12:16:46 005:004 > impor
+12:16:46 005:005 > import
+12:16:48 005:000 > import
+12:16:49 005:007 >  r
+12:16:49 005:008 >  ra
+12:16:50 005:009 >  raz
+12:16:50 005:010 >  razo
+12:16:51 005:011 >  razor
+12:16:52 005:012 >  razorp
+12:16:52 005:013 >  razorpa
+12:16:52 005:014 >  razorpay
+
+12:18:14 177:004 > a
+12:18:14 177:005 > am
+12:18:14 177:006 > amo
+12:18:15 177:007 > amou
+12:18:15 177:008 > amoun
+12:18:15 177:009 > amount
+12:18:16 177:011 > amount =
+12:18:18 177:013 > amount = t
+12:18:18 177:014 > amount = ta
+12:18:18 177:015 > amount = tao
+12:18:20 177:014 > amount = taoo
+12:18:20 177:015 > amount = taoot
+12:18:20 177:016 > amount = taoota
+12:18:20 177:017 > amount = taootal
+12:18:24 177:018 > amount = taootal*
+12:18:24 177:019 > amount = taootal*1
+12:18:24 177:020 > amount = taootal*10
+12:18:24 177:021 > amount = taootal*100
+
+12:18:27 178:004 > c
+12:18:27 178:005 > cl
+12:18:27 178:006 > cli
+12:18:27 178:007 > clie
+12:18:27 178:008 > clien
+12:18:27 178:009 > client
+12:18:30 178:012 > client  =
+12:18:30 178:014 > client  = =
+12:18:31 178:014 > client  = =r
+12:18:32 178:015 > client  = =ra
+12:18:32 178:015 > client  = =raz
+12:18:33 178:016 > client  = =razo
+12:18:33 178:017 > client  = =razor
+12:18:35 178:015 > client  = =razor a
+12:18:35 178:016 > client  = =razor az
+12:18:36 178:017 > client  = =razor azr
+12:18:36 178:018 > client  = =razor azro
+12:18:36 178:019 > client  = =razor azrop
+12:18:37 178:020 > client  = =razor azropa
+12:18:37 178:021 > client  = =razor azropay
+12:18:47 178:022 > client  = =razor azropay.
+12:18:47 178:023 > client  = =razor azropay.c
+12:18:47 178:024 > client  = =razor azropay.cl
+12:18:47 178:025 > client  = =razor azropay.cli
+12:18:48 178:026 > client  = =razor azropay.clie
+12:18:48 178:027 > client  = =razor azropay.clien
+12:18:48 178:028 > client  = =razor azropay.client
+12:18:51 178:029 > ()
+12:18:51 178:030 > a
+12:18:51 178:031 > au
+12:18:51 178:032 > aut
+12:18:51 178:033 > auth
+12:18:54 178:034 > auth=
+12:18:55 178:035 > ()
+
+12:19:01 179:004 > r
+12:19:01 179:005 > re
+12:19:02 179:006 > res
+12:19:03 179:007 > resp
+12:19:03 179:008 > respo
+12:19:04 179:009 > respon
+12:19:04 179:010 > respons
+12:19:04 179:011 > response
+12:19:07 179:013 > response =
+12:19:08 179:015 > response = c
+12:19:09 179:016 > response = cl
+12:19:09 179:017 > response = cli
+12:19:09 179:018 > response = clie
+12:19:09 179:019 > response = clien
+12:19:09 179:020 > response = client
+12:19:10 179:021 > response = client.
+12:19:10 179:022 > response = client.i
+12:19:12 179:022 > response = client.io
+12:19:12 179:023 > response = client.ior
+12:19:12 179:024 > response = client.iord
+12:19:12 179:025 > response = client.iorde
+12:19:12 179:026 > response = client.iorder
+12:19:15 179:027 > response = client.iorder.
+12:19:16 179:028 > response = client.iorder.c
+12:19:16 179:029 > response = client.iorder.cr
+12:19:16 179:030 > response = client.iorder.cre
+12:19:16 179:031 > response = client.iorder.crea
+12:19:16 179:032 > response = client.iorder.creat
+12:19:17 179:033 > response = client.iorder.create
+12:19:19 179:034 > response = client.iorder.create)
+12:19:19 179:035 > []
+12:19:22 179:034 > ()
+12:19:28 179:035 > {}
+12:19:41 181:035 > ''
+
+12:19:42 181:036 > a
+12:19:42 181:037 > am
+12:19:42 181:038 > amo
+12:19:42 181:039 > amou
+12:19:43 181:040 > amoun
+12:19:43 181:041 > amount
+12:20:25 178:036 > rzp_test_bilBagOBVTi4lE','77yKq3N9Wul97JVQcjtIVB5z'
+
+12:20:30 178:036 > '
+
+12:20:35 181:044 > :
+12:20:36 181:046 > : a
+12:20:36 181:047 > : am
+12:20:36 181:048 > : amp
+12:20:38 181:048 > : ampo
+12:20:38 181:049 > : ampou
+12:20:38 181:050 > : ampout
+12:20:38 181:051 > : ampoutn
+12:20:39 181:046 > amount
+12:20:41 181:052 > ,
+12:20:43 182:035 > ''
+
+12:20:44 182:036 > c
+12:20:44 182:037 > cu
+12:20:44 182:038 > cur
+12:20:44 182:039 > curr
+12:20:44 182:040 > curre
+12:20:44 182:041 > curren
+12:20:45 182:042 > currenc
+12:20:45 182:043 > currency
+12:20:46 182:045 > currency :
+12:20:49 182:046 > currency :  :
+12:20:51 182:048 > currency :  : c
+12:20:51 182:049 > currency :  : cu
+12:20:51 182:050 > currency :  : cur
+12:20:51 182:051 > currency :  : curr
+12:20:52 182:052 > currency :  : curre
+12:20:52 182:053 > currency :  : curren
+12:20:52 182:054 > currency :  : currenc
+12:20:52 182:055 > currency :  : currency
+12:20:58 182:048 > ""
+12:21:00 182:048 > ""
+12:21:02 182:048 > ''
+12:21:03 182:049 > I
+12:21:04 182:050 > IN
+12:21:05 182:051 > INR
+12:21:08 182:053 > INR,
+12:21:09 183:035 > ''
+
+12:21:10 183:036 > p
+12:21:10 183:037 > pa
+12:21:10 183:038 > pay
+12:21:11 183:039 > paym
+12:21:11 183:040 > payme
+12:21:11 183:041 > paymen
+12:21:11 183:042 > payment
+12:21:13 183:043 > payment_
+12:21:13 183:044 > payment_c
+12:21:14 183:045 > payment_ca
+12:21:14 183:046 > payment_cap
+12:21:14 183:047 > payment_capt
+12:21:14 183:048 > payment_captu
+12:21:15 183:049 > payment_captur
+12:21:15 183:050 > payment_capture
+12:21:15 183:051 > payment_capturer
+12:21:17 183:053 > payment_capturer :
+
+12:22:45 186:004 > p
+12:22:45 186:005 > pr
+12:22:45 186:006 > pri
+12:22:46 186:007 > prin
+12:22:46 186:008 > print
+12:22:48 186:009 > ()
+12:22:49 186:010 > r
+12:22:50 186:011 > re
+12:22:50 186:012 > res
+12:22:51 186:010 > response
+12:22:53 186:018 > ,
+12:22:54 186:019 > ""
+12:22:56 186:020 > *
+12:22:57 186:021 > **
+12:22:57 186:022 > ***
+12:22:57 186:023 > ****
+12:22:57 186:024 > *****
+12:22:58 186:025 > ******
+12:22:58 186:026 > *******
+12:22:58 186:027 > ********
+12:22:58 186:028 > *********
+12:22:59 186:029 > **********
+12:22:59 186:030 > ***********
+12:22:59 186:031 > ************
+12:22:59 186:032 > *************
+12:22:59 186:033 > **************
+12:22:59 186:034 > ***************
+12:23:00 186:035 > ****************
+12:23:00 186:036 > *****************
+12:23:01 186:037 > ******************
+12:23:01 186:038 > *******************
+12:23:01 186:039 > ********************
+12:23:01 186:040 > *********************
+12:23:02 186:041 > **********************
+12:23:03 186:042 > ***********************
+12:23:03 186:043 > ************************
+12:23:03 186:044 > *************************
+12:23:04 186:045 > **************************
+12:23:04 186:046 > ***************************
+12:23:04 186:047 > ****************************
+12:23:04 186:048 > *****************************
+12:23:04 186:049 > ******************************
+12:23:05 186:050 > *******************************
+
+12:23:45 192:021 > ,
+
+12:23:54 183:055 > 1
+12:24:01 193:006 > ''
+
+12:24:02 193:007 > r
+12:24:02 193:008 > re
+12:24:02 193:009 > res
+12:24:03 193:010 > resp
+12:24:03 193:011 > respo
+12:24:03 193:012 > respon
+12:24:03 193:013 > respons
+12:24:04 193:014 > response
+12:24:05 193:017 > response :
+12:24:06 193:019 > response : r
+12:24:06 193:020 > response : re
+12:24:07 193:021 > response : res
+12:24:07 193:022 > response : resp
+12:24:07 193:023 > response : respo
+12:24:07 193:024 > response : respon
+12:24:07 193:025 > response : respons
+12:24:08 193:026 > response : response
+
+12:25:22 178:015 > o
+12:25:23 178:016 > or
+12:26:03 178:033 > ('rzp_test_bilBagOBVTi4lE','77yKq3N9Wul97JVQcjtIVB5z'))
+12:27:20 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\mynewproject\settings.py
+----------------------------------------
+12:28:04 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:29:03 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+12:29:08 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\views.py
+----------------------------------------
+12:35:26 177:001 > amount = total*100 
+    client = razorpay.Client(auth=('rzp_test_bilBagOBVTi4lE','77yKq3N9Wul97JVQcjtIVB5z'))
+    response = client.order.create({
+
+                                    'amount':amount,
+                                   'currency':'INR',
+                                   'payment_capture':1
+                                   
+                                   })
+12:36:23 186:010 > response
+12:36:26 186:008 > response
+12:36:28 193:007 > response
+12:36:38 193:019 > response

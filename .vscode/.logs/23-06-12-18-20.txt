@@ -1,0 +1,166 @@
+18:20:32 Document switched to: c:\Users\ADMIN\Desktop\ecomapp\newenv\mynewproject\ecomapp\templates\ecomapp\checkout.html
+----------------------------------------
+23-06-12 18:20 Session started
+----------------------------------------
+18:21:49 239:002 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+</form>
+18:23:12 264:001 > {% comment %} {% endif %} {% endcomment %}
+18:23:12 258:001 > {% else %} {% endcomment %}
+18:23:12 255:000 > {% comment %} {% if not all_address %}
+18:23:13 278:001 > </form>
+18:23:25 239:001 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+</form>
+18:23:34 239:001 > </form>
+18:23:34 152:002 > form
+18:23:37 240:001 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+</form>
+18:23:48 239:001 > <div class="payments-options">
+                    <ul class="list-unstyled">
+                        <li>
+                            <label for="payment_method_paypal" id="paypal-transfer">
+                                <input required type="radio" data-order_button_text="Proceed to PayPal" value="bacs"
+                                    name="payment_method" class="input-radio" id="payment_method_paypal">
+                                Paypal payment <img src="" alt="">
+                            </label>
+                            <div class="paypal-transfer-msg">
+                                <p>Pay via PayPal; you can pay with your credit card if you don't have a PayPal
+                                    account.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                {% comment %} {% if not all_address %}
+                
+                <h2>Add your address</h2>
+                {% else %} {% endcomment %}
+
+                
+                <div class="col-md-12">
+                  <button type="submit" class="btn rd-3d-btn dart-btn-sm dart-fright">Place Order</button>
+              </div>
+                  {% comment %} {% endif %} {% endcomment %}
+              </div>
+          </div>
+      </center>
+      </section>
+      <script src="https://checkout.razorpay.com/v1/checkout.js" data-key="rzp_test_bilBagOBVTi4lE"
+          data-amount={{response.amount}} data-currency={{response.currency}} 
+          data-buttontext="Pay with Razorpay" data-name="{{request.user}}" data-theme.color="#F37254" data-description=""
+          data-image="" data-prefill.name={{request.user.username}} data-prefill.email={{request.user.email}}>
+     </script>
+      <input type="hidden" custom="Hidden Element" name="hidden">
+  
+   </script>
+</form>
